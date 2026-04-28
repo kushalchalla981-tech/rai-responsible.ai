@@ -1,0 +1,101 @@
+patient_id,age,gender,race,insurance_type,income_level,education,comorbidities,treatment_recommended,treatment_received,readmitted_30_days
+1,28,Female,White,Private,High,College,0,1,0
+2,35,Male,Black,Medicaid,Medium,High School,1,1,1
+3,42,Female,Hispanic,Private,High,College,0,1,0
+4,31,Male,White,Medicare,Low,High School,2,1,1
+5,45,Female,Black,Private,High,College,1,1,0
+6,29,Male,Hispanic,Medicaid,Low,High School,0,0,1
+7,38,Female,White,Private,Medium,College,1,1,0
+8,33,Male,Black,Medicare,Low,High School,2,1,1
+9,50,Female,Hispanic,Private,High,College,0,1,0
+10,27,Male,White,Medicaid,Low,High School,1,0,1
+11,36,Female,Black,Private,Medium,College,1,1,0
+12,41,Male,Hispanic,Medicare,Low,High School,2,1,1
+13,30,Female,White,Private,High,College,0,1,0
+14,44,Male,Black,Private,High,College,1,1,0
+15,32,Female,Hispanic,Medicaid,Low,High School,2,1,1
+16,39,Male,White,Private,Medium,College,1,1,0
+17,26,Female,Black,Medicare,Low,High School,0,0,1
+18,34,Male,Hispanic,Private,High,College,1,1,0
+19,47,Female,White,Private,High,College,0,1,0
+20,29,Male,Black,Medicaid,Low,High School,1,0,1
+21,37,Female,Hispanic,Private,Medium,College,1,1,0
+22,43,Male,White,Medicare,Low,High School,2,1,1
+23,31,Female,Black,Private,High,College,0,1,0
+24,40,Male,Hispanic,Private,High,College,1,1,0
+25,28,Female,White,Medicaid,Low,High School,1,0,1
+26,35,Male,Black,Private,Medium,College,1,1,0
+27,42,Female,Hispanic,Medicare,Low,High School,2,1,1
+28,33,Male,White,Private,High,College,0,1,0
+29,45,Female,Black,Private,High,College,1,1,0
+30,27,Male,Hispanic,Medicaid,Low,High School,2,1,1
+31,36,Female,White,Private,Medium,College,1,1,0
+32,41,Male,Black,Medicare,Low,High School,0,0,1
+33,30,Female,Hispanic,Private,High,College,1,1,0
+34,44,Male,White,Private,High,College,0,1,0
+35,32,Female,Black,Medicaid,Low,High School,1,0,1
+36,39,Male,Hispanic,Private,Medium,College,1,1,0
+37,26,Female,White,Medicare,Low,High School,2,1,1
+38,34,Male,Black,Private,High,College,0,1,0
+39,47,Female,Hispanic,Private,High,College,1,1,0
+40,29,Male,White,Medicaid,Low,High School,0,0,1
+41,37,Female,Black,Private,Medium,College,1,1,0
+42,43,Male,Hispanic,Medicare,Low,High School,1,0,1
+43,31,Female,White,Private,High,College,0,1,0
+44,40,Male,Black,Private,High,College,1,1,0
+45,28,Female,Hispanic,Medicaid,Low,High School,2,1,1
+46,35,Male,White,Private,Medium,College,1,1,0
+47,42,Female,Black,Medicare,Low,High School,0,0,1
+48,33,Male,Hispanic,Private,High,College,0,1,0
+49,45,Female,White,Private,High,College,1,1,0
+50,27,Male,Black,Medicaid,Low,High School,1,0,1
+51,36,Female,Hispanic,Private,Medium,College,1,1,0
+52,41,Male,White,Medicare,Low,High School,2,1,1
+53,30,Female,Black,Private,High,College,0,1,0
+54,44,Male,Hispanic,Private,High,College,1,1,0
+55,32,Female,White,Medicaid,Low,High School,0,0,1
+56,39,Male,Black,Private,Medium,College,1,1,0
+57,26,Female,Hispanic,Medicare,Low,High School,1,0,1
+58,34,Male,White,Private,High,College,0,1,0
+59,47,Female,Black,Private,High,College,1,1,0
+60,29,Male,Hispanic,Medicaid,Low,High School,2,1,1
+61,37,Female,White,Private,Medium,College,1,1,0
+62,43,Male,Black,Medicare,Low,High School,0,0,1
+63,31,Female,Hispanic,Private,High,College,1,1,0
+64,40,Male,White,Private,High,College,0,1,0
+65,28,Female,Black,Medicaid,Low,High School,1,0,1
+66,35,Male,Hispanic,Private,Medium,College,1,1,0
+67,42,Female,White,Medicare,Low,High School,2,1,1
+68,33,Male,Black,Private,High,College,0,1,0
+69,45,Female,Hispanic,Private,High,College,1,1,0
+70,27,Male,White,Medicaid,Low,High School,0,0,1
+71,36,Female,Black,Private,Medium,College,1,1,0
+72,41,Male,Hispanic,Medicare,Low,High School,1,0,1
+73,30,Female,White,Private,High,College,0,1,0
+74,44,Male,Black,Private,High,College,1,1,0
+75,32,Female,Hispanic,Medicaid,Low,High School,2,1,1
+76,39,Male,White,Private,Medium,College,1,1,0
+77,26,Female,Black,Medicare,Low,High School,0,0,1
+78,34,Male,Hispanic,Private,High,College,0,1,0
+79,47,Female,White,Private,High,College,1,1,0
+80,29,Male,Black,Medicaid,Low,High School,1,0,1
+81,37,Female,Hispanic,Private,Medium,College,1,1,0
+82,43,Male,White,Medicare,Low,High School,2,1,1
+83,31,Female,Black,Private,High,College,0,1,0
+84,40,Male,Hispanic,Private,High,College,1,1,0
+85,28,Female,White,Medicaid,Low,High School,0,0,1
+86,35,Male,Black,Private,Medium,College,1,1,0
+87,42,Female,Hispanic,Medicare,Low,High School,1,0,1
+88,33,Male,White,Private,High,College,0,1,0
+89,45,Female,Black,Private,High,College,1,1,0
+90,27,Male,Hispanic,Medicaid,Low,High School,2,1,1
+91,36,Female,White,Private,Medium,College,1,1,0
+92,41,Male,Black,Medicare,Low,High School,0,0,1
+93,30,Female,Hispanic,Private,High,College,1,1,0
+94,44,Male,White,Private,High,College,0,1,0
+95,32,Female,Black,Medicaid,Low,High School,1,0,1
+96,39,Male,Hispanic,Private,Medium,College,1,1,0
+97,26,Female,White,Medicare,Low,High School,2,1,1
+98,34,Male,Black,Private,High,College,0,1,0
+99,47,Female,Hispanic,Private,High,College,1,1,0
+100,29,Male,White,Medicaid,Low,High School,0,0,1

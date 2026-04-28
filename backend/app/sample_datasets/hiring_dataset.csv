@@ -1,0 +1,2501 @@
+applicant_id,age,gender,race,education,hired
+1,56,Male,Asian,High School,0
+2,46,Female,Hispanic,Bachelor,1
+3,32,Female,White,Bachelor,0
+4,60,Male,White,High School,1
+5,25,Female,Hispanic,Bachelor,0
+6,38,Male,Asian,Bachelor,1
+7,56,Male,White,High School,1
+8,36,Female,White,Bachelor,1
+9,40,Female,White,High School,1
+10,28,Female,Asian,Bachelor,0
+11,28,Female,Black,High School,1
+12,41,Male,White,Master,1
+13,53,Male,White,Bachelor,0
+14,57,Male,Asian,High School,1
+15,41,Male,White,Bachelor,1
+16,20,Male,White,Bachelor,0
+17,39,Male,White,Bachelor,1
+18,19,Male,White,Bachelor,1
+19,41,Male,White,Bachelor,1
+20,61,Female,Hispanic,High School,1
+21,47,Female,Asian,High School,1
+22,55,Male,Hispanic,Bachelor,1
+23,19,Female,Asian,Bachelor,0
+24,38,Female,White,Bachelor,1
+25,50,Male,Hispanic,Master,0
+26,29,Female,White,Bachelor,1
+27,39,Female,Black,Master,1
+28,61,Female,Other,High School,0
+29,42,Male,White,High School,1
+30,66,Female,White,Master,1
+31,44,Male,White,Bachelor,1
+32,59,Female,White,Master,1
+33,45,Female,White,High School,1
+34,33,Female,Hispanic,Bachelor,1
+35,32,Female,Other,Master,1
+36,64,Female,White,High School,0
+37,61,Male,White,Master,1
+38,20,Male,White,Bachelor,1
+39,54,Female,Asian,Bachelor,0
+40,24,Male,White,Bachelor,1
+41,38,Male,White,Master,0
+42,26,Male,White,High School,1
+43,56,Male,White,High School,1
+44,35,Female,White,Master,1
+45,21,Female,Hispanic,Master,1
+46,42,Female,Black,High School,1
+47,31,Female,Black,Bachelor,0
+48,26,Female,White,Bachelor,1
+49,43,Male,Hispanic,Bachelor,0
+50,19,Female,Black,High School,1
+51,37,Male,White,Bachelor,1
+52,45,Female,White,High School,0
+53,64,Female,White,Master,0
+54,24,Male,Hispanic,Master,1
+55,61,Female,White,Bachelor,1
+56,25,Female,Other,High School,0
+57,64,Female,White,High School,1
+58,52,Male,Hispanic,Bachelor,1
+59,31,Female,Black,Bachelor,0
+60,34,Female,Hispanic,Bachelor,0
+61,53,Male,White,Bachelor,1
+62,57,Male,White,Bachelor,1
+63,21,Female,Hispanic,High School,1
+64,19,Male,White,High School,0
+65,23,Female,White,High School,1
+66,59,Female,White,High School,0
+67,21,Female,White,Bachelor,1
+68,46,Male,White,Master,1
+69,35,Female,White,Master,1
+70,43,Male,White,High School,1
+71,61,Male,Hispanic,High School,0
+72,51,Female,Black,High School,1
+73,27,Male,Hispanic,Bachelor,1
+74,53,Male,Other,Bachelor,0
+75,31,Female,White,Bachelor,0
+76,48,Male,White,High School,1
+77,65,Male,White,High School,1
+78,32,Female,White,High School,1
+79,25,Female,Asian,High School,1
+80,31,Female,White,Bachelor,1
+81,40,Male,White,High School,1
+82,57,Male,White,Bachelor,0
+83,38,Male,Black,Bachelor,0
+84,33,Male,Black,Master,1
+85,62,Female,White,Master,1
+86,35,Male,Other,Master,1
+87,64,Male,White,High School,0
+88,41,Female,White,Bachelor,1
+89,43,Female,Asian,Master,1
+90,42,Female,White,High School,1
+91,62,Male,Asian,Bachelor,1
+92,58,Male,Other,Master,1
+93,46,Male,Hispanic,Bachelor,1
+94,32,Male,Hispanic,High School,1
+95,62,Female,White,High School,0
+96,18,Female,Asian,Bachelor,1
+97,42,Female,White,High School,1
+98,24,Female,Hispanic,Bachelor,0
+99,26,Male,Asian,Bachelor,1
+100,41,Female,Other,High School,0
+101,18,Male,Hispanic,Master,1
+102,61,Female,White,Bachelor,1
+103,25,Female,Other,High School,1
+104,41,Male,Black,Master,1
+105,28,Male,Asian,Master,0
+106,34,Non-binary,Black,Bachelor,1
+107,25,Male,White,Master,1
+108,52,Male,White,Bachelor,1
+109,52,Male,White,Master,1
+110,50,Female,Hispanic,Bachelor,1
+111,22,Female,White,Master,1
+112,59,Female,White,PhD,1
+113,56,Male,White,Bachelor,0
+114,58,Female,Hispanic,High School,1
+115,45,Male,White,Bachelor,1
+116,24,Female,White,Bachelor,0
+117,26,Female,White,High School,1
+118,25,Male,White,PhD,1
+119,29,Male,White,High School,0
+120,51,Male,White,High School,1
+121,50,Male,White,Master,0
+122,65,Male,Asian,Bachelor,1
+123,40,Female,Hispanic,High School,1
+124,41,Female,White,Bachelor,0
+125,54,Male,Other,Bachelor,1
+126,52,Male,White,High School,1
+127,61,Male,Black,PhD,1
+128,57,Female,Black,Bachelor,0
+129,39,Male,White,Bachelor,0
+130,44,Female,White,Bachelor,1
+131,52,Female,White,Bachelor,0
+132,18,Female,White,High School,1
+133,52,Female,Hispanic,High School,1
+134,54,Male,White,Bachelor,1
+135,64,Female,White,Master,1
+136,31,Male,White,High School,1
+137,20,Male,White,Bachelor,1
+138,18,Female,White,Master,0
+139,22,Female,White,High School,0
+140,43,Female,Hispanic,High School,0
+141,31,Male,White,High School,1
+142,56,Male,White,Bachelor,0
+143,44,Female,Black,High School,0
+144,26,Male,White,Bachelor,1
+145,32,Female,Black,Bachelor,0
+146,32,Female,Black,Bachelor,0
+147,43,Female,White,High School,0
+148,59,Male,White,Bachelor,0
+149,30,Male,White,Master,1
+150,49,Male,White,PhD,1
+151,56,Female,White,Master,1
+152,66,Male,White,Bachelor,1
+153,49,Female,White,Bachelor,0
+154,21,Male,White,Bachelor,0
+155,47,Non-binary,Black,High School,1
+156,54,Male,Black,High School,0
+157,40,Male,White,Bachelor,1
+158,56,Male,White,High School,1
+159,62,Female,Hispanic,High School,0
+160,32,Female,White,PhD,1
+161,60,Female,Hispanic,High School,0
+162,46,Male,White,High School,1
+163,53,Male,Black,High School,1
+164,30,Female,White,Bachelor,0
+165,49,Male,White,Bachelor,1
+166,24,Male,White,Bachelor,1
+167,39,Non-binary,White,Bachelor,1
+168,45,Non-binary,White,Master,1
+169,19,Female,White,Master,1
+170,59,Female,Hispanic,PhD,1
+171,62,Male,Asian,Master,0
+172,23,Male,White,Bachelor,1
+173,45,Female,White,High School,1
+174,45,Female,White,High School,1
+175,61,Male,Black,High School,0
+176,61,Male,White,Bachelor,1
+177,37,Male,Other,Master,0
+178,47,Female,White,Bachelor,1
+179,28,Female,White,High School,1
+180,45,Female,Black,Bachelor,0
+181,42,Male,Hispanic,Master,0
+182,56,Non-binary,White,Bachelor,1
+183,50,Female,White,Master,1
+184,18,Male,Other,Master,1
+185,44,Male,White,Master,1
+186,30,Male,Asian,Master,0
+187,58,Male,White,Master,1
+188,20,Female,Hispanic,High School,1
+189,56,Female,Black,High School,0
+190,23,Female,White,Bachelor,0
+191,25,Male,Hispanic,High School,1
+192,44,Male,White,PhD,0
+193,26,Female,White,High School,1
+194,54,Male,White,Master,1
+195,50,Female,White,Bachelor,0
+196,59,Female,Black,Bachelor,0
+197,61,Female,White,Master,1
+198,41,Female,White,Bachelor,1
+199,32,Male,White,Bachelor,1
+200,49,Male,White,High School,1
+201,49,Male,White,Bachelor,1
+202,41,Female,Hispanic,High School,0
+203,58,Male,Asian,Bachelor,1
+204,66,Male,Hispanic,Bachelor,0
+205,66,Female,White,Bachelor,0
+206,29,Male,White,Master,1
+207,56,Male,White,Bachelor,1
+208,19,Male,White,Bachelor,1
+209,20,Female,White,Master,1
+210,66,Female,White,High School,0
+211,54,Female,White,Bachelor,1
+212,66,Male,Asian,Bachelor,1
+213,34,Non-binary,White,Master,1
+214,66,Female,White,Bachelor,1
+215,19,Male,White,Bachelor,1
+216,19,Female,White,Bachelor,0
+217,45,Male,Hispanic,Bachelor,1
+218,40,Female,White,High School,0
+219,54,Female,White,Bachelor,1
+220,49,Male,White,Bachelor,1
+221,50,Non-binary,White,PhD,1
+222,18,Female,White,Bachelor,0
+223,36,Female,Hispanic,Bachelor,1
+224,19,Male,Hispanic,High School,1
+225,61,Male,Hispanic,Master,1
+226,43,Male,White,Master,1
+227,49,Female,Hispanic,High School,1
+228,23,Male,White,High School,1
+229,49,Female,White,Bachelor,0
+230,21,Female,Black,High School,0
+231,28,Male,White,High School,1
+232,34,Female,White,High School,1
+233,55,Male,Hispanic,High School,1
+234,41,Non-binary,White,Bachelor,1
+235,22,Female,Black,Bachelor,0
+236,51,Male,White,Bachelor,1
+237,23,Male,Hispanic,Bachelor,0
+238,39,Male,Other,High School,1
+239,28,Female,Hispanic,Bachelor,0
+240,65,Female,White,High School,1
+241,33,Female,White,Bachelor,0
+242,50,Male,White,Bachelor,1
+243,26,Male,White,High School,1
+244,23,Male,White,High School,1
+245,33,Female,White,High School,0
+246,46,Female,White,Bachelor,0
+247,20,Male,Other,Master,1
+248,37,Male,White,High School,1
+249,53,Female,White,Master,0
+250,36,Female,White,High School,0
+251,43,Female,Asian,Master,0
+252,20,Female,Hispanic,Bachelor,1
+253,36,Male,Hispanic,Bachelor,1
+254,37,Male,Asian,Bachelor,0
+255,49,Female,White,Bachelor,0
+256,24,Female,White,Master,1
+257,58,Male,White,Master,1
+258,50,Female,Black,Bachelor,1
+259,57,Female,White,High School,0
+260,56,Female,White,High School,1
+261,35,Female,Asian,Master,1
+262,57,Male,Other,Bachelor,0
+263,18,Female,Hispanic,Bachelor,1
+264,28,Female,Hispanic,Bachelor,1
+265,45,Female,Black,Master,0
+266,42,Female,White,Bachelor,1
+267,40,Female,White,Master,1
+268,48,Male,Black,Master,1
+269,47,Female,Hispanic,Bachelor,1
+270,59,Female,White,High School,1
+271,52,Female,Asian,Master,1
+272,24,Female,White,Bachelor,1
+273,33,Female,White,Master,1
+274,43,Female,Black,High School,0
+275,65,Female,White,High School,1
+276,66,Male,White,Master,1
+277,19,Male,White,Bachelor,1
+278,18,Female,Hispanic,Bachelor,0
+279,65,Female,White,Master,1
+280,29,Male,Black,Bachelor,0
+281,22,Male,White,Bachelor,1
+282,54,Female,White,High School,0
+283,49,Male,Other,Master,1
+284,26,Male,White,Master,1
+285,58,Male,Other,High School,0
+286,52,Male,White,Master,1
+287,36,Male,Other,Master,0
+288,65,Male,White,Bachelor,1
+289,33,Male,White,Bachelor,0
+290,20,Female,White,Bachelor,1
+291,37,Female,White,High School,1
+292,41,Female,Black,Bachelor,1
+293,50,Male,White,Master,1
+294,41,Male,Black,Bachelor,0
+295,28,Female,White,Bachelor,1
+296,66,Male,White,High School,1
+297,25,Female,Hispanic,High School,0
+298,53,Female,White,Bachelor,1
+299,55,Female,Black,High School,0
+300,57,Male,Black,Bachelor,0
+301,37,Male,Hispanic,Bachelor,1
+302,52,Female,White,Master,1
+303,65,Male,Black,High School,1
+304,42,Female,Other,Bachelor,1
+305,52,Female,Hispanic,Bachelor,0
+306,42,Non-binary,White,High School,1
+307,46,Male,Black,High School,0
+308,35,Female,Hispanic,High School,1
+309,63,Female,Black,Master,0
+310,35,Male,White,High School,1
+311,19,Male,White,Bachelor,1
+312,52,Female,Hispanic,PhD,1
+313,33,Male,White,Master,1
+314,58,Male,Hispanic,High School,0
+315,53,Male,White,Master,1
+316,50,Female,White,High School,1
+317,21,Female,White,Bachelor,1
+318,50,Female,White,Master,1
+319,31,Male,Other,Bachelor,0
+320,38,Male,Asian,Bachelor,0
+321,65,Female,Black,High School,1
+322,37,Female,White,Bachelor,0
+323,25,Male,Black,Bachelor,1
+324,24,Female,Black,High School,0
+325,20,Non-binary,White,PhD,1
+326,34,Female,White,Master,1
+327,50,Female,Black,Master,1
+328,65,Female,Hispanic,Bachelor,1
+329,29,Male,Other,Bachelor,0
+330,39,Female,White,Master,1
+331,39,Non-binary,Hispanic,Master,1
+332,63,Male,White,Bachelor,0
+333,47,Female,White,High School,1
+334,55,Female,White,High School,0
+335,55,Female,White,Bachelor,1
+336,62,Female,White,Bachelor,1
+337,25,Female,White,Master,1
+338,44,Female,Hispanic,High School,0
+339,44,Male,Hispanic,High School,0
+340,51,Female,Black,Bachelor,1
+341,38,Male,Asian,Bachelor,1
+342,47,Male,White,High School,1
+343,50,Male,White,Bachelor,1
+344,45,Female,Black,Bachelor,0
+345,64,Male,White,Bachelor,1
+346,50,Female,White,Bachelor,1
+347,22,Female,White,Bachelor,0
+348,65,Female,White,Bachelor,1
+349,36,Male,Hispanic,Master,1
+350,21,Female,White,High School,1
+351,52,Female,White,Master,1
+352,66,Female,White,Bachelor,1
+353,34,Male,Black,Master,1
+354,61,Male,White,Master,1
+355,45,Male,Hispanic,Bachelor,0
+356,47,Male,White,Bachelor,1
+357,46,Male,White,High School,0
+358,63,Female,White,Master,1
+359,23,Female,White,Bachelor,1
+360,52,Male,White,Bachelor,1
+361,58,Male,White,Bachelor,1
+362,54,Male,Asian,Master,1
+363,41,Male,White,High School,1
+364,46,Male,Black,Bachelor,1
+365,66,Male,White,Bachelor,0
+366,63,Female,White,Bachelor,0
+367,48,Non-binary,White,Bachelor,1
+368,52,Male,Asian,Bachelor,0
+369,50,Male,White,Bachelor,1
+370,38,Female,White,Master,1
+371,49,Male,White,High School,1
+372,40,Male,White,Bachelor,1
+373,50,Female,White,High School,1
+374,20,Male,White,High School,0
+375,35,Female,White,High School,1
+376,42,Female,White,Bachelor,1
+377,59,Male,Hispanic,Bachelor,0
+378,48,Male,White,High School,1
+379,20,Female,White,High School,1
+380,57,Male,White,Master,1
+381,63,Male,Black,High School,1
+382,41,Female,White,Master,1
+383,49,Female,White,High School,1
+384,64,Male,White,Master,1
+385,39,Female,Black,High School,0
+386,40,Male,White,Master,1
+387,19,Female,Black,Bachelor,1
+388,44,Female,Hispanic,Bachelor,1
+389,59,Female,Black,High School,0
+390,19,Female,White,Bachelor,0
+391,43,Non-binary,White,Bachelor,1
+392,34,Male,White,High School,1
+393,57,Female,White,High School,0
+394,50,Male,White,Master,0
+395,26,Male,Hispanic,High School,1
+396,60,Male,White,Bachelor,1
+397,65,Female,White,Bachelor,1
+398,56,Non-binary,Black,Master,1
+399,46,Male,Black,Master,1
+400,59,Male,White,PhD,1
+401,43,Female,Hispanic,High School,0
+402,52,Male,White,Master,1
+403,42,Male,Hispanic,High School,1
+404,41,Female,Hispanic,Bachelor,1
+405,30,Female,Hispanic,Bachelor,1
+406,24,Non-binary,White,High School,0
+407,53,Male,White,Master,1
+408,62,Male,White,High School,1
+409,37,Female,Black,Bachelor,1
+410,18,Female,White,Master,1
+411,25,Female,Hispanic,Master,1
+412,63,Female,White,High School,0
+413,33,Male,White,Bachelor,1
+414,31,Female,White,Master,1
+415,29,Male,White,High School,1
+416,40,Male,White,Bachelor,1
+417,32,Female,Hispanic,High School,0
+418,45,Male,Black,Bachelor,1
+419,51,Male,Hispanic,Master,1
+420,19,Female,Hispanic,Bachelor,1
+421,49,Male,Hispanic,Bachelor,1
+422,40,Female,White,Bachelor,0
+423,39,Male,Hispanic,Bachelor,0
+424,42,Female,White,High School,0
+425,39,Male,White,High School,1
+426,39,Male,Black,Bachelor,1
+427,66,Non-binary,White,Bachelor,1
+428,59,Female,White,Bachelor,0
+429,23,Female,White,Bachelor,1
+430,32,Male,White,Bachelor,1
+431,60,Female,Asian,High School,0
+432,54,Female,White,Master,1
+433,50,Female,White,Bachelor,1
+434,25,Female,White,High School,0
+435,61,Male,White,High School,1
+436,61,Male,Asian,PhD,1
+437,22,Female,White,High School,0
+438,56,Male,White,Master,1
+439,21,Male,Black,High School,0
+440,23,Female,Asian,Master,1
+441,62,Female,Black,Master,1
+442,49,Female,Hispanic,Bachelor,1
+443,47,Female,White,High School,0
+444,64,Female,White,High School,1
+445,52,Male,White,Bachelor,1
+446,57,Male,Hispanic,Bachelor,1
+447,33,Male,White,High School,1
+448,30,Male,White,High School,1
+449,59,Female,White,Bachelor,1
+450,47,Male,White,Bachelor,1
+451,36,Male,White,High School,1
+452,34,Male,Other,High School,0
+453,36,Male,White,PhD,1
+454,45,Male,Black,Bachelor,1
+455,43,Male,Hispanic,Master,1
+456,54,Male,White,Bachelor,1
+457,43,Male,White,High School,1
+458,40,Male,White,High School,1
+459,26,Female,White,Bachelor,0
+460,29,Male,Black,Master,1
+461,18,Male,White,Bachelor,1
+462,18,Female,White,High School,1
+463,64,Male,White,PhD,0
+464,51,Female,Asian,Bachelor,0
+465,49,Female,Hispanic,PhD,0
+466,65,Male,Hispanic,PhD,1
+467,42,Female,Hispanic,High School,0
+468,57,Male,White,High School,1
+469,62,Female,Hispanic,Bachelor,0
+470,18,Male,White,Bachelor,1
+471,33,Female,Black,Bachelor,1
+472,56,Male,Black,PhD,1
+473,22,Female,White,Bachelor,0
+474,39,Female,Hispanic,High School,0
+475,46,Male,Asian,High School,1
+476,20,Male,White,Bachelor,1
+477,29,Female,Hispanic,High School,0
+478,43,Female,White,Master,0
+479,33,Male,Black,High School,0
+480,54,Female,White,Bachelor,1
+481,39,Non-binary,White,High School,1
+482,46,Female,Asian,Bachelor,0
+483,31,Male,Hispanic,High School,1
+484,45,Female,Hispanic,Master,1
+485,22,Male,White,Bachelor,1
+486,64,Non-binary,Asian,Master,0
+487,66,Female,White,Bachelor,1
+488,47,Male,Hispanic,High School,0
+489,63,Female,White,Master,1
+490,22,Male,White,High School,1
+491,29,Non-binary,Black,Bachelor,1
+492,33,Non-binary,White,High School,0
+493,43,Female,White,Master,0
+494,43,Male,White,Master,1
+495,65,Female,White,Bachelor,0
+496,38,Male,White,Bachelor,1
+497,56,Male,White,Master,0
+498,53,Female,White,High School,1
+499,50,Male,White,Master,1
+500,47,Male,Black,High School,0
+501,54,Non-binary,White,PhD,1
+502,40,Male,Asian,Bachelor,0
+503,27,Male,Hispanic,Master,0
+504,22,Female,White,Bachelor,1
+505,53,Male,Hispanic,Bachelor,0
+506,51,Female,Hispanic,Bachelor,1
+507,48,Non-binary,Other,High School,1
+508,27,Female,Black,Bachelor,1
+509,36,Female,White,Bachelor,1
+510,49,Male,Black,Master,0
+511,18,Male,Black,Bachelor,0
+512,22,Female,Black,High School,1
+513,62,Female,White,High School,1
+514,21,Female,Hispanic,Bachelor,0
+515,33,Male,Other,High School,0
+516,41,Male,White,High School,1
+517,33,Male,White,Master,1
+518,19,Female,White,Bachelor,0
+519,66,Male,Hispanic,Bachelor,1
+520,45,Female,Black,High School,0
+521,49,Female,Black,Bachelor,0
+522,44,Male,White,High School,0
+523,37,Female,White,Bachelor,1
+524,41,Male,White,High School,1
+525,29,Female,White,Master,0
+526,52,Female,Hispanic,Bachelor,1
+527,50,Female,Other,Bachelor,0
+528,50,Female,Asian,Bachelor,1
+529,60,Male,Asian,Bachelor,1
+530,54,Male,White,High School,1
+531,29,Female,White,Master,1
+532,20,Male,Hispanic,High School,1
+533,18,Male,Asian,Master,1
+534,50,Male,White,Master,1
+535,57,Female,White,Bachelor,0
+536,27,Male,White,Master,1
+537,60,Female,Black,Bachelor,1
+538,61,Non-binary,White,High School,1
+539,46,Male,White,PhD,1
+540,30,Male,White,Bachelor,1
+541,29,Male,White,Bachelor,1
+542,48,Female,Hispanic,Bachelor,0
+543,63,Male,White,Bachelor,1
+544,19,Male,Black,PhD,0
+545,52,Male,Black,High School,1
+546,40,Female,Hispanic,High School,0
+547,34,Male,White,Bachelor,1
+548,43,Female,Other,Bachelor,0
+549,25,Female,Black,Bachelor,0
+550,46,Male,Other,High School,1
+551,43,Female,Asian,High School,1
+552,27,Male,White,High School,1
+553,43,Female,White,Master,1
+554,51,Female,White,High School,1
+555,58,Female,White,Master,1
+556,24,Male,White,Master,1
+557,21,Male,White,Master,1
+558,62,Male,White,Master,1
+559,28,Male,White,High School,0
+560,46,Male,White,High School,1
+561,53,Male,White,Bachelor,1
+562,42,Male,White,High School,1
+563,38,Male,White,Bachelor,1
+564,53,Female,White,Bachelor,1
+565,27,Female,White,Master,1
+566,54,Male,Hispanic,High School,0
+567,26,Male,White,Master,0
+568,41,Male,White,High School,1
+569,52,Non-binary,White,Bachelor,0
+570,66,Male,Hispanic,Bachelor,0
+571,52,Female,Asian,Master,0
+572,65,Non-binary,Hispanic,Bachelor,1
+573,53,Female,Black,PhD,1
+574,35,Female,White,Master,1
+575,66,Female,White,Master,1
+576,56,Non-binary,White,High School,1
+577,49,Female,Asian,Master,1
+578,41,Female,Black,Master,1
+579,40,Female,Hispanic,High School,1
+580,49,Female,White,High School,0
+581,54,Female,Hispanic,High School,1
+582,29,Male,White,High School,1
+583,66,Male,White,Bachelor,0
+584,30,Male,White,PhD,1
+585,40,Male,White,Bachelor,1
+586,42,Male,White,Bachelor,0
+587,52,Male,Hispanic,PhD,1
+588,58,Female,White,High School,1
+589,47,Male,White,Master,1
+590,34,Female,White,Bachelor,1
+591,66,Male,White,Bachelor,1
+592,37,Male,Hispanic,Bachelor,1
+593,65,Female,Hispanic,Bachelor,0
+594,42,Female,Hispanic,High School,1
+595,39,Male,Hispanic,Master,0
+596,30,Female,Hispanic,High School,1
+597,36,Female,White,Master,0
+598,66,Male,Hispanic,Bachelor,1
+599,53,Male,White,High School,1
+600,29,Non-binary,White,Bachelor,1
+601,58,Female,White,High School,1
+602,36,Female,Hispanic,Master,1
+603,29,Female,Hispanic,PhD,0
+604,26,Male,White,Master,1
+605,24,Male,Hispanic,High School,1
+606,45,Male,Asian,Bachelor,1
+607,31,Female,White,Bachelor,0
+608,48,Female,White,Master,1
+609,36,Female,Hispanic,High School,1
+610,64,Male,White,Bachelor,1
+611,33,Male,Black,Bachelor,0
+612,22,Female,White,High School,0
+613,52,Female,White,Bachelor,0
+614,29,Female,Hispanic,Bachelor,0
+615,42,Male,Black,Master,1
+616,38,Female,Hispanic,Master,0
+617,53,Male,Hispanic,Bachelor,0
+618,40,Female,Hispanic,Bachelor,0
+619,33,Male,Black,High School,1
+620,56,Female,White,PhD,1
+621,62,Male,White,PhD,1
+622,59,Female,White,Master,1
+623,56,Male,Hispanic,Master,0
+624,31,Male,White,Bachelor,1
+625,48,Male,White,Master,1
+626,22,Male,White,Bachelor,1
+627,52,Male,Hispanic,Bachelor,0
+628,40,Female,Hispanic,Master,1
+629,46,Male,White,High School,0
+630,60,Female,Hispanic,High School,1
+631,28,Female,White,Bachelor,0
+632,35,Female,White,Bachelor,1
+633,64,Male,Hispanic,Master,1
+634,29,Male,White,High School,0
+635,26,Female,Other,High School,1
+636,27,Non-binary,White,High School,1
+637,61,Male,White,High School,1
+638,34,Male,Asian,High School,0
+639,55,Female,White,Bachelor,1
+640,24,Non-binary,Other,Bachelor,1
+641,63,Male,Other,Master,1
+642,30,Male,White,PhD,1
+643,57,Female,White,Bachelor,1
+644,59,Male,White,High School,0
+645,26,Male,White,High School,1
+646,44,Female,White,Master,1
+647,19,Female,White,Bachelor,1
+648,22,Male,White,Master,1
+649,46,Male,White,Master,1
+650,54,Male,Other,Master,1
+651,55,Female,Hispanic,PhD,1
+652,36,Female,Hispanic,Bachelor,1
+653,25,Male,White,Bachelor,1
+654,65,Male,Hispanic,PhD,0
+655,62,Female,White,Bachelor,1
+656,18,Female,Hispanic,High School,1
+657,39,Female,Other,Bachelor,0
+658,34,Female,White,Bachelor,0
+659,24,Male,Black,Master,0
+660,42,Female,Hispanic,Bachelor,0
+661,62,Female,Asian,Bachelor,1
+662,21,Male,Hispanic,PhD,1
+663,53,Male,White,Master,1
+664,23,Male,White,Bachelor,0
+665,48,Male,White,High School,0
+666,36,Male,Hispanic,Bachelor,1
+667,61,Male,White,Bachelor,1
+668,56,Male,Hispanic,High School,1
+669,44,Female,White,High School,1
+670,27,Male,White,Bachelor,1
+671,43,Female,White,Bachelor,1
+672,36,Female,Hispanic,Bachelor,1
+673,56,Female,White,High School,1
+674,20,Female,White,Bachelor,0
+675,62,Male,White,Master,1
+676,30,Female,White,High School,1
+677,45,Male,White,High School,1
+678,37,Male,Hispanic,Bachelor,0
+679,45,Female,White,PhD,1
+680,25,Male,White,Bachelor,1
+681,58,Male,Hispanic,High School,1
+682,56,Female,Other,Bachelor,1
+683,18,Female,Black,Master,0
+684,20,Female,White,High School,0
+685,30,Male,Hispanic,Bachelor,0
+686,45,Female,Other,Bachelor,0
+687,66,Male,Hispanic,High School,0
+688,42,Female,White,Master,0
+689,50,Female,Black,Master,0
+690,55,Female,Hispanic,Bachelor,0
+691,23,Female,White,High School,1
+692,61,Male,White,High School,1
+693,62,Female,Hispanic,Bachelor,1
+694,49,Female,Black,Bachelor,1
+695,62,Male,White,High School,1
+696,64,Female,Black,High School,0
+697,38,Male,White,High School,0
+698,33,Female,White,PhD,1
+699,38,Female,Hispanic,Master,1
+700,28,Female,White,Master,1
+701,54,Male,White,High School,1
+702,53,Female,Other,PhD,1
+703,52,Female,White,High School,0
+704,36,Female,White,Bachelor,0
+705,37,Male,Other,Master,1
+706,35,Male,Hispanic,Bachelor,0
+707,64,Female,Black,Bachelor,0
+708,58,Male,Hispanic,High School,0
+709,66,Female,White,High School,0
+710,31,Female,Hispanic,Bachelor,1
+711,32,Female,White,Bachelor,1
+712,48,Female,Hispanic,Master,1
+713,18,Female,White,Bachelor,1
+714,20,Male,Black,Bachelor,0
+715,33,Male,White,High School,1
+716,40,Male,White,High School,1
+717,28,Male,Hispanic,PhD,0
+718,29,Female,Black,High School,0
+719,27,Female,Black,Bachelor,0
+720,49,Female,White,High School,1
+721,33,Female,White,Bachelor,1
+722,25,Non-binary,Hispanic,Bachelor,1
+723,55,Female,Hispanic,High School,1
+724,29,Female,Black,High School,1
+725,41,Female,Asian,Bachelor,0
+726,45,Male,Hispanic,Bachelor,0
+727,25,Male,White,High School,0
+728,45,Male,Black,Bachelor,0
+729,53,Female,Asian,High School,0
+730,43,Female,Black,Master,1
+731,25,Male,Hispanic,Bachelor,1
+732,45,Male,Black,High School,1
+733,45,Female,White,Bachelor,0
+734,54,Male,White,Bachelor,1
+735,58,Male,White,High School,1
+736,53,Female,Other,Bachelor,0
+737,44,Male,Black,High School,1
+738,34,Male,White,High School,1
+739,26,Female,Asian,High School,0
+740,50,Female,Black,Bachelor,1
+741,37,Female,White,High School,0
+742,30,Male,Hispanic,Bachelor,0
+743,45,Male,Hispanic,Bachelor,0
+744,65,Male,White,Bachelor,0
+745,46,Female,White,Master,1
+746,30,Female,White,Master,0
+747,63,Male,White,Bachelor,1
+748,52,Female,White,Bachelor,0
+749,23,Male,White,High School,1
+750,35,Male,White,Master,1
+751,22,Male,White,High School,1
+752,64,Male,White,Bachelor,1
+753,42,Female,White,Bachelor,1
+754,19,Female,Hispanic,High School,1
+755,27,Male,Hispanic,High School,0
+756,47,Female,White,Bachelor,0
+757,62,Male,White,Bachelor,0
+758,22,Female,White,Bachelor,0
+759,50,Female,White,Master,0
+760,18,Male,White,High School,1
+761,35,Female,White,High School,1
+762,49,Male,White,Bachelor,0
+763,64,Male,Hispanic,High School,0
+764,66,Male,White,Bachelor,1
+765,28,Female,White,High School,1
+766,38,Female,Hispanic,Bachelor,1
+767,43,Male,White,Bachelor,0
+768,42,Female,White,Bachelor,1
+769,39,Female,White,Bachelor,0
+770,44,Female,Black,Bachelor,0
+771,66,Female,Hispanic,Bachelor,0
+772,30,Female,White,High School,1
+773,50,Male,White,High School,1
+774,51,Male,White,Bachelor,1
+775,58,Non-binary,White,Bachelor,1
+776,52,Male,Hispanic,Bachelor,0
+777,18,Non-binary,Hispanic,High School,1
+778,38,Female,White,Bachelor,1
+779,65,Male,Black,Master,1
+780,23,Male,White,High School,0
+781,45,Male,Asian,High School,1
+782,34,Female,White,High School,0
+783,22,Male,White,Bachelor,1
+784,48,Male,White,Bachelor,1
+785,22,Male,Black,High School,1
+786,55,Male,White,Bachelor,1
+787,20,Female,White,High School,1
+788,40,Male,White,Bachelor,1
+789,54,Female,White,Bachelor,1
+790,54,Male,White,Bachelor,1
+791,27,Male,Hispanic,High School,0
+792,27,Female,White,Master,1
+793,36,Male,White,Bachelor,1
+794,34,Non-binary,Black,High School,0
+795,38,Female,White,High School,0
+796,31,Male,Black,Bachelor,0
+797,26,Female,Hispanic,Master,0
+798,63,Male,White,Master,1
+799,18,Male,Asian,Bachelor,0
+800,62,Non-binary,White,Master,1
+801,30,Female,White,High School,1
+802,21,Non-binary,White,High School,0
+803,18,Female,White,Master,1
+804,66,Female,Hispanic,Master,1
+805,57,Male,Hispanic,Bachelor,1
+806,49,Male,Hispanic,Master,0
+807,51,Female,Other,PhD,1
+808,45,Male,Hispanic,Master,1
+809,48,Female,Black,Master,1
+810,25,Female,White,Master,1
+811,56,Male,White,High School,0
+812,43,Female,White,Master,1
+813,51,Female,Hispanic,High School,0
+814,20,Male,White,Master,0
+815,29,Female,White,Bachelor,1
+816,18,Female,White,Bachelor,1
+817,61,Male,White,Bachelor,0
+818,22,Female,Black,High School,0
+819,47,Non-binary,White,High School,1
+820,47,Male,Black,PhD,0
+821,34,Female,White,PhD,1
+822,65,Male,Black,Bachelor,0
+823,64,Female,White,PhD,0
+824,40,Female,White,Master,1
+825,32,Male,Black,Bachelor,0
+826,54,Male,White,High School,0
+827,38,Female,White,Master,1
+828,31,Male,White,Bachelor,1
+829,19,Female,White,Master,1
+830,28,Male,White,Master,1
+831,56,Female,White,Master,1
+832,55,Female,Black,Bachelor,1
+833,51,Female,Hispanic,High School,1
+834,55,Male,White,Bachelor,1
+835,51,Female,Other,High School,0
+836,35,Female,White,High School,0
+837,47,Male,Black,Bachelor,0
+838,32,Male,Black,Bachelor,0
+839,44,Male,Black,Master,1
+840,51,Female,White,High School,1
+841,55,Female,White,Bachelor,1
+842,50,Male,White,High School,1
+843,41,Female,White,High School,1
+844,32,Male,White,High School,1
+845,47,Male,White,Bachelor,1
+846,59,Non-binary,White,High School,1
+847,34,Female,White,Bachelor,0
+848,22,Female,Hispanic,High School,0
+849,46,Male,Hispanic,Master,1
+850,21,Female,Asian,Master,1
+851,27,Female,White,PhD,1
+852,34,Male,Hispanic,Master,1
+853,27,Female,Hispanic,Master,1
+854,34,Female,White,Master,1
+855,37,Female,White,Bachelor,0
+856,41,Male,Asian,High School,1
+857,22,Female,White,High School,0
+858,51,Female,White,High School,0
+859,23,Male,White,Bachelor,1
+860,19,Female,White,Bachelor,0
+861,30,Female,Hispanic,Master,1
+862,60,Male,Black,PhD,1
+863,60,Male,White,Bachelor,1
+864,65,Female,White,Bachelor,0
+865,28,Female,White,PhD,1
+866,64,Female,Black,High School,0
+867,40,Female,White,Master,1
+868,33,Non-binary,Hispanic,High School,0
+869,48,Male,White,Bachelor,1
+870,28,Male,White,High School,0
+871,33,Female,Black,Master,1
+872,25,Male,White,Bachelor,1
+873,21,Male,Hispanic,High School,0
+874,57,Male,Hispanic,High School,0
+875,21,Male,Hispanic,Bachelor,0
+876,42,Male,White,PhD,1
+877,20,Non-binary,White,Master,1
+878,49,Male,White,Bachelor,1
+879,20,Female,White,Bachelor,1
+880,44,Female,Hispanic,Bachelor,0
+881,46,Female,Hispanic,Master,1
+882,49,Male,Hispanic,Master,0
+883,36,Female,Asian,Bachelor,0
+884,38,Female,Hispanic,Bachelor,0
+885,22,Female,White,Bachelor,0
+886,35,Female,White,PhD,1
+887,45,Female,Black,Master,1
+888,59,Male,White,Master,1
+889,39,Female,White,Bachelor,0
+890,38,Female,White,High School,1
+891,23,Female,Hispanic,Master,1
+892,18,Non-binary,White,Bachelor,1
+893,22,Male,Hispanic,High School,1
+894,58,Non-binary,Hispanic,Bachelor,1
+895,29,Male,White,Master,0
+896,43,Male,White,High School,1
+897,63,Male,White,Bachelor,0
+898,51,Male,Hispanic,Bachelor,0
+899,66,Female,Hispanic,High School,1
+900,31,Male,Asian,High School,1
+901,43,Male,Black,Master,0
+902,62,Female,White,Master,0
+903,44,Female,White,High School,1
+904,26,Female,Hispanic,Master,0
+905,43,Female,White,Master,1
+906,64,Female,White,Bachelor,1
+907,39,Male,White,Master,1
+908,64,Male,White,PhD,1
+909,47,Female,White,Bachelor,1
+910,60,Male,White,High School,1
+911,65,Female,White,PhD,1
+912,34,Male,White,Bachelor,1
+913,43,Male,Hispanic,High School,0
+914,53,Female,Hispanic,Bachelor,0
+915,18,Female,White,Bachelor,0
+916,25,Female,Hispanic,Master,1
+917,66,Female,White,Bachelor,1
+918,52,Male,White,High School,1
+919,32,Male,Hispanic,Bachelor,1
+920,64,Female,Hispanic,Bachelor,1
+921,39,Female,Hispanic,High School,0
+922,31,Male,White,Bachelor,0
+923,43,Female,White,Master,1
+924,45,Male,Asian,High School,0
+925,40,Female,White,Bachelor,1
+926,31,Male,White,Bachelor,1
+927,41,Female,Hispanic,High School,0
+928,19,Female,Hispanic,Bachelor,0
+929,62,Male,Hispanic,Bachelor,1
+930,43,Female,White,Master,0
+931,31,Male,Hispanic,High School,0
+932,24,Male,White,Bachelor,0
+933,20,Male,White,High School,0
+934,64,Male,Black,PhD,0
+935,40,Male,White,Bachelor,1
+936,63,Female,White,Bachelor,1
+937,60,Female,Black,High School,1
+938,64,Female,White,Bachelor,1
+939,62,Male,White,High School,1
+940,35,Male,White,Master,1
+941,55,Male,White,Bachelor,1
+942,52,Male,White,Bachelor,1
+943,32,Female,Hispanic,Bachelor,0
+944,42,Male,Hispanic,Bachelor,1
+945,54,Female,White,Bachelor,1
+946,45,Female,Hispanic,Bachelor,0
+947,27,Male,White,Bachelor,0
+948,56,Female,White,Bachelor,1
+949,34,Female,Hispanic,Bachelor,1
+950,56,Female,White,High School,1
+951,39,Female,Other,Master,1
+952,43,Male,White,Bachelor,1
+953,61,Male,Hispanic,Bachelor,0
+954,42,Male,White,PhD,1
+955,34,Male,White,High School,1
+956,30,Female,White,Master,1
+957,37,Male,Hispanic,PhD,0
+958,42,Female,White,Master,0
+959,21,Female,Asian,Master,1
+960,27,Male,White,Bachelor,1
+961,20,Male,White,High School,1
+962,58,Female,White,Bachelor,1
+963,62,Female,Black,High School,0
+964,35,Female,Hispanic,High School,0
+965,64,Male,White,Master,1
+966,53,Male,Black,High School,1
+967,64,Male,White,Master,1
+968,39,Male,Black,Master,1
+969,51,Female,Hispanic,Master,1
+970,64,Female,White,Master,1
+971,25,Female,White,Master,1
+972,57,Female,Other,Master,0
+973,66,Female,Hispanic,Bachelor,0
+974,61,Male,White,High School,1
+975,36,Male,White,Master,1
+976,59,Female,White,Master,1
+977,58,Male,White,Bachelor,1
+978,54,Female,Hispanic,High School,1
+979,23,Female,Black,Bachelor,0
+980,43,Male,White,High School,0
+981,51,Female,White,Master,0
+982,62,Female,White,PhD,0
+983,23,Female,White,High School,1
+984,54,Female,White,Bachelor,0
+985,50,Female,White,High School,0
+986,39,Male,White,Bachelor,1
+987,38,Male,White,Bachelor,1
+988,23,Female,White,Bachelor,0
+989,23,Female,White,Bachelor,1
+990,65,Male,White,High School,0
+991,21,Male,White,Bachelor,1
+992,47,Female,White,High School,1
+993,28,Female,White,Bachelor,1
+994,47,Female,White,High School,1
+995,48,Female,Hispanic,Bachelor,1
+996,41,Male,Asian,Master,1
+997,26,Male,Hispanic,Master,1
+998,20,Female,White,Master,1
+999,48,Male,Hispanic,Master,1
+1000,57,Male,Black,High School,0
+1001,54,Male,White,High School,1
+1002,53,Female,White,Bachelor,1
+1003,41,Female,Hispanic,Master,1
+1004,48,Male,White,PhD,1
+1005,23,Female,White,High School,0
+1006,19,Female,Hispanic,Bachelor,0
+1007,37,Non-binary,Hispanic,High School,1
+1008,45,Male,White,Master,1
+1009,28,Female,White,Bachelor,0
+1010,21,Male,White,High School,0
+1011,32,Female,Hispanic,Bachelor,0
+1012,23,Female,White,Bachelor,0
+1013,66,Male,White,Master,1
+1014,47,Female,Hispanic,High School,1
+1015,55,Female,White,Master,1
+1016,19,Male,Black,Bachelor,1
+1017,32,Female,White,Master,1
+1018,28,Male,White,Master,1
+1019,25,Female,Black,High School,1
+1020,43,Male,White,High School,1
+1021,62,Female,White,Bachelor,1
+1022,61,Male,White,High School,1
+1023,22,Female,Black,Master,1
+1024,23,Female,Asian,Bachelor,0
+1025,43,Female,Other,Master,0
+1026,21,Female,White,High School,1
+1027,36,Female,White,High School,1
+1028,37,Male,White,Bachelor,1
+1029,50,Male,Hispanic,High School,0
+1030,37,Female,White,Bachelor,1
+1031,66,Male,Other,Master,1
+1032,29,Female,White,Bachelor,0
+1033,64,Non-binary,Other,Master,1
+1034,18,Male,Hispanic,High School,1
+1035,43,Female,Hispanic,Bachelor,1
+1036,31,Male,White,PhD,1
+1037,55,Female,White,PhD,1
+1038,54,Male,White,Bachelor,0
+1039,28,Male,White,Master,1
+1040,53,Female,White,Bachelor,0
+1041,30,Female,White,High School,1
+1042,60,Female,White,High School,1
+1043,20,Female,Black,Master,1
+1044,50,Male,Black,High School,1
+1045,23,Female,White,Bachelor,1
+1046,27,Male,Other,Bachelor,1
+1047,22,Female,White,Bachelor,0
+1048,40,Female,White,Bachelor,1
+1049,27,Female,White,High School,1
+1050,61,Female,Hispanic,High School,1
+1051,19,Male,White,Bachelor,1
+1052,30,Female,White,Bachelor,1
+1053,57,Male,Black,Bachelor,1
+1054,19,Female,White,Bachelor,1
+1055,37,Male,Black,High School,0
+1056,18,Female,Asian,Master,0
+1057,54,Female,Other,Bachelor,1
+1058,26,Male,White,High School,1
+1059,34,Male,White,Bachelor,0
+1060,26,Female,White,Master,0
+1061,28,Male,White,Master,1
+1062,32,Male,White,High School,1
+1063,41,Male,White,Bachelor,1
+1064,55,Male,Other,High School,0
+1065,52,Female,Asian,High School,1
+1066,47,Female,White,Bachelor,0
+1067,48,Male,White,Bachelor,1
+1068,66,Male,White,Master,0
+1069,22,Male,White,Bachelor,1
+1070,61,Male,Black,High School,0
+1071,31,Male,Black,Bachelor,0
+1072,28,Male,Hispanic,High School,1
+1073,26,Male,Hispanic,High School,1
+1074,51,Female,White,Bachelor,0
+1075,29,Male,Black,Bachelor,0
+1076,52,Female,White,High School,0
+1077,52,Female,Black,Bachelor,0
+1078,18,Female,White,High School,0
+1079,57,Female,White,High School,0
+1080,39,Female,White,Bachelor,1
+1081,46,Female,White,High School,1
+1082,25,Female,Asian,Bachelor,0
+1083,28,Female,White,High School,1
+1084,58,Female,White,Bachelor,1
+1085,54,Female,White,High School,1
+1086,31,Male,Black,High School,0
+1087,47,Male,White,Bachelor,0
+1088,52,Male,Other,Master,1
+1089,38,Female,Hispanic,High School,0
+1090,54,Female,White,Bachelor,0
+1091,22,Female,Black,Bachelor,0
+1092,36,Female,White,Bachelor,1
+1093,31,Female,White,Master,1
+1094,43,Male,Hispanic,High School,1
+1095,21,Female,White,PhD,1
+1096,42,Female,White,Bachelor,1
+1097,62,Non-binary,Black,Bachelor,1
+1098,59,Male,White,Master,0
+1099,42,Female,Asian,Bachelor,1
+1100,35,Female,White,Bachelor,1
+1101,57,Female,Hispanic,Bachelor,1
+1102,25,Female,White,Bachelor,1
+1103,56,Female,Hispanic,High School,1
+1104,57,Male,White,Bachelor,1
+1105,31,Female,White,High School,1
+1106,49,Female,Hispanic,Master,1
+1107,55,Female,White,PhD,1
+1108,50,Female,White,Bachelor,1
+1109,40,Male,White,Bachelor,1
+1110,32,Male,Hispanic,High School,0
+1111,50,Non-binary,White,High School,1
+1112,42,Female,Asian,Master,0
+1113,34,Female,White,High School,0
+1114,50,Male,White,Bachelor,1
+1115,64,Female,Hispanic,Master,0
+1116,19,Female,Black,Master,0
+1117,31,Female,Hispanic,Bachelor,0
+1118,57,Male,Other,Bachelor,0
+1119,57,Female,White,Bachelor,1
+1120,56,Female,White,PhD,0
+1121,23,Male,White,Bachelor,1
+1122,23,Female,Hispanic,Bachelor,1
+1123,20,Female,Hispanic,High School,1
+1124,24,Female,White,High School,1
+1125,25,Female,White,Bachelor,1
+1126,59,Male,White,Master,1
+1127,32,Male,Hispanic,Master,0
+1128,64,Male,White,PhD,1
+1129,46,Male,White,Bachelor,0
+1130,50,Female,White,Master,0
+1131,47,Male,Hispanic,Master,1
+1132,56,Female,Black,Bachelor,1
+1133,44,Non-binary,Black,Bachelor,0
+1134,53,Female,White,Bachelor,1
+1135,46,Female,White,Master,1
+1136,55,Female,Hispanic,High School,0
+1137,50,Female,Other,Master,1
+1138,54,Male,White,High School,1
+1139,44,Male,White,Master,1
+1140,50,Female,White,Bachelor,1
+1141,21,Female,White,Master,1
+1142,39,Female,Hispanic,Bachelor,0
+1143,19,Female,White,Master,1
+1144,27,Female,White,Bachelor,0
+1145,22,Male,White,High School,1
+1146,27,Non-binary,White,Bachelor,0
+1147,50,Female,White,High School,0
+1148,55,Male,White,High School,0
+1149,30,Female,White,Bachelor,0
+1150,48,Male,Hispanic,Master,1
+1151,64,Female,White,Bachelor,0
+1152,53,Female,White,Bachelor,0
+1153,62,Male,Other,Bachelor,1
+1154,41,Female,Black,High School,0
+1155,32,Female,Hispanic,PhD,0
+1156,46,Male,White,Bachelor,1
+1157,25,Male,White,Master,1
+1158,22,Female,White,High School,0
+1159,46,Male,White,High School,0
+1160,64,Male,White,Master,1
+1161,21,Male,Asian,Bachelor,1
+1162,29,Male,White,High School,1
+1163,62,Female,White,High School,0
+1164,19,Female,White,Master,1
+1165,44,Male,White,Bachelor,1
+1166,48,Female,Black,Bachelor,1
+1167,53,Male,White,High School,1
+1168,53,Female,Hispanic,Bachelor,0
+1169,43,Non-binary,Other,PhD,1
+1170,60,Male,White,High School,1
+1171,44,Female,White,Bachelor,1
+1172,22,Female,Asian,Master,0
+1173,37,Male,Hispanic,High School,1
+1174,28,Male,White,Bachelor,1
+1175,27,Male,Asian,Bachelor,0
+1176,57,Female,White,Bachelor,1
+1177,55,Non-binary,Asian,Bachelor,1
+1178,23,Female,White,Bachelor,0
+1179,25,Female,White,Bachelor,1
+1180,40,Female,Asian,Bachelor,0
+1181,64,Female,White,Bachelor,1
+1182,43,Female,White,High School,0
+1183,63,Male,White,Bachelor,1
+1184,60,Female,Other,PhD,0
+1185,29,Female,Hispanic,Bachelor,1
+1186,43,Male,Hispanic,Bachelor,1
+1187,30,Female,Black,Bachelor,0
+1188,57,Male,Hispanic,Master,0
+1189,35,Female,White,Master,1
+1190,42,Female,White,High School,0
+1191,50,Male,Hispanic,Bachelor,1
+1192,64,Male,White,Bachelor,1
+1193,57,Male,White,Bachelor,1
+1194,60,Female,White,High School,1
+1195,29,Male,White,Master,1
+1196,61,Female,Hispanic,High School,1
+1197,53,Male,White,Bachelor,1
+1198,65,Non-binary,Hispanic,Bachelor,1
+1199,21,Female,White,High School,0
+1200,22,Female,White,Master,0
+1201,54,Female,White,Master,1
+1202,25,Female,Hispanic,Bachelor,1
+1203,59,Female,Black,Bachelor,1
+1204,66,Male,Asian,High School,0
+1205,45,Male,Black,Bachelor,0
+1206,48,Male,White,High School,1
+1207,26,Male,Black,Bachelor,0
+1208,46,Male,Asian,Master,0
+1209,31,Female,Hispanic,High School,0
+1210,57,Non-binary,White,Master,1
+1211,58,Male,White,High School,1
+1212,39,Female,Black,Master,1
+1213,28,Male,Hispanic,High School,0
+1214,40,Female,White,Bachelor,1
+1215,18,Female,Hispanic,High School,1
+1216,63,Female,Other,Master,0
+1217,54,Non-binary,White,Bachelor,1
+1218,38,Male,Hispanic,High School,1
+1219,43,Female,White,Bachelor,1
+1220,63,Female,White,Bachelor,1
+1221,53,Male,White,Bachelor,0
+1222,40,Female,White,Master,1
+1223,18,Male,Hispanic,Bachelor,0
+1224,57,Female,White,High School,1
+1225,32,Male,White,High School,1
+1226,38,Male,White,Bachelor,0
+1227,64,Female,White,Bachelor,1
+1228,26,Female,White,Bachelor,1
+1229,26,Male,Black,High School,1
+1230,27,Male,White,Bachelor,1
+1231,43,Female,Hispanic,PhD,1
+1232,58,Male,Hispanic,High School,0
+1233,52,Male,White,Bachelor,1
+1234,42,Female,Asian,Master,0
+1235,43,Female,White,Master,1
+1236,28,Male,White,Bachelor,1
+1237,55,Female,White,Bachelor,1
+1238,19,Female,White,Master,1
+1239,24,Female,White,High School,1
+1240,35,Female,Hispanic,Bachelor,1
+1241,44,Male,White,High School,1
+1242,51,Male,Hispanic,Bachelor,0
+1243,44,Male,White,Bachelor,1
+1244,34,Female,Hispanic,Master,0
+1245,60,Male,White,High School,1
+1246,61,Female,White,Bachelor,1
+1247,41,Male,White,Bachelor,1
+1248,42,Male,White,Bachelor,1
+1249,24,Female,White,Bachelor,0
+1250,23,Male,Hispanic,Bachelor,1
+1251,41,Male,White,PhD,1
+1252,50,Female,Hispanic,Bachelor,0
+1253,66,Male,Black,Bachelor,1
+1254,46,Female,Hispanic,Master,1
+1255,60,Female,White,High School,0
+1256,39,Male,White,High School,1
+1257,43,Female,Asian,Bachelor,0
+1258,45,Female,Black,Bachelor,0
+1259,38,Male,White,Master,1
+1260,66,Male,White,PhD,1
+1261,24,Male,White,Bachelor,1
+1262,34,Female,Black,Bachelor,0
+1263,37,Male,Hispanic,Bachelor,1
+1264,58,Female,White,Bachelor,0
+1265,66,Female,Black,Master,0
+1266,37,Female,White,Master,1
+1267,39,Male,White,Bachelor,1
+1268,45,Male,Black,High School,1
+1269,57,Female,Hispanic,High School,0
+1270,66,Male,White,High School,1
+1271,24,Male,Hispanic,Master,1
+1272,18,Male,White,High School,1
+1273,49,Male,White,Master,1
+1274,30,Female,White,Bachelor,1
+1275,47,Male,White,Bachelor,0
+1276,40,Male,White,Bachelor,1
+1277,36,Male,White,Bachelor,1
+1278,49,Female,Hispanic,Bachelor,1
+1279,47,Female,White,Master,1
+1280,46,Male,Hispanic,Bachelor,1
+1281,66,Female,White,Bachelor,1
+1282,62,Female,Asian,Bachelor,0
+1283,46,Female,Hispanic,High School,0
+1284,47,Female,White,Bachelor,1
+1285,33,Male,Hispanic,PhD,1
+1286,57,Male,White,High School,0
+1287,36,Male,Hispanic,High School,1
+1288,35,Male,White,High School,1
+1289,18,Non-binary,Black,Bachelor,1
+1290,31,Male,Hispanic,High School,0
+1291,64,Male,White,Bachelor,0
+1292,19,Female,White,High School,1
+1293,45,Female,Hispanic,High School,1
+1294,66,Male,White,Bachelor,0
+1295,47,Male,White,Bachelor,0
+1296,55,Male,White,PhD,1
+1297,21,Female,White,High School,0
+1298,18,Male,Other,Bachelor,0
+1299,25,Male,White,High School,1
+1300,46,Female,White,Bachelor,1
+1301,56,Male,Black,PhD,1
+1302,20,Female,Hispanic,Master,1
+1303,49,Female,White,High School,0
+1304,27,Male,White,Bachelor,0
+1305,27,Female,Asian,Bachelor,0
+1306,36,Female,Black,High School,1
+1307,63,Male,White,High School,1
+1308,51,Female,White,Master,1
+1309,50,Female,White,PhD,1
+1310,40,Female,White,PhD,1
+1311,45,Male,White,Master,0
+1312,49,Non-binary,Hispanic,Bachelor,1
+1313,24,Male,White,Bachelor,1
+1314,46,Male,Hispanic,High School,0
+1315,25,Male,White,High School,1
+1316,18,Male,Hispanic,Bachelor,0
+1317,20,Female,Hispanic,Master,1
+1318,41,Male,White,Master,1
+1319,40,Male,White,Master,1
+1320,25,Female,White,Master,1
+1321,64,Male,Hispanic,PhD,1
+1322,54,Male,Hispanic,High School,1
+1323,20,Male,White,Master,1
+1324,50,Male,White,Bachelor,1
+1325,45,Male,White,High School,1
+1326,64,Female,Hispanic,PhD,1
+1327,25,Male,White,Master,1
+1328,51,Male,White,High School,1
+1329,52,Female,White,High School,0
+1330,49,Female,White,Bachelor,1
+1331,41,Male,Hispanic,Bachelor,1
+1332,31,Female,White,Master,1
+1333,49,Male,Black,High School,1
+1334,63,Female,White,High School,1
+1335,60,Female,White,High School,0
+1336,33,Male,Black,High School,0
+1337,21,Female,Other,High School,1
+1338,54,Male,Hispanic,Master,1
+1339,38,Female,White,Bachelor,0
+1340,31,Male,White,Bachelor,1
+1341,48,Female,Hispanic,High School,0
+1342,65,Female,White,High School,0
+1343,35,Female,White,Master,1
+1344,24,Male,Hispanic,Bachelor,0
+1345,27,Female,Hispanic,Master,1
+1346,24,Female,Other,Bachelor,1
+1347,50,Female,Asian,High School,1
+1348,40,Female,Hispanic,Bachelor,0
+1349,38,Female,White,Bachelor,1
+1350,36,Male,White,Master,1
+1351,65,Male,White,High School,0
+1352,36,Female,White,Bachelor,1
+1353,53,Male,White,High School,1
+1354,46,Non-binary,White,Bachelor,1
+1355,35,Female,White,Master,1
+1356,19,Female,White,Bachelor,1
+1357,18,Male,White,Bachelor,1
+1358,64,Female,White,PhD,1
+1359,22,Female,White,Bachelor,1
+1360,37,Female,Hispanic,High School,0
+1361,28,Female,White,High School,1
+1362,59,Male,White,Bachelor,1
+1363,19,Female,Hispanic,Bachelor,0
+1364,20,Female,White,High School,1
+1365,40,Male,White,Bachelor,1
+1366,29,Male,White,PhD,1
+1367,37,Female,White,High School,1
+1368,22,Female,Asian,Bachelor,0
+1369,54,Non-binary,White,High School,1
+1370,55,Female,Black,Master,0
+1371,47,Male,White,High School,1
+1372,26,Male,White,Bachelor,1
+1373,51,Male,White,High School,1
+1374,61,Male,White,Bachelor,0
+1375,52,Male,White,Master,1
+1376,39,Male,White,Bachelor,1
+1377,61,Male,White,Bachelor,0
+1378,41,Female,Black,Bachelor,1
+1379,34,Male,White,High School,1
+1380,27,Female,Asian,Master,1
+1381,47,Female,Black,High School,0
+1382,63,Male,White,Bachelor,1
+1383,40,Male,White,High School,0
+1384,49,Male,White,High School,1
+1385,34,Male,Hispanic,Bachelor,0
+1386,34,Female,White,Bachelor,1
+1387,31,Male,Hispanic,Bachelor,1
+1388,26,Male,White,Master,1
+1389,57,Male,Hispanic,High School,0
+1390,19,Non-binary,White,High School,1
+1391,62,Female,Hispanic,Master,0
+1392,42,Female,White,Master,0
+1393,56,Male,White,High School,1
+1394,26,Female,White,Bachelor,1
+1395,39,Female,White,Bachelor,0
+1396,60,Female,Other,Master,1
+1397,63,Non-binary,White,Master,1
+1398,21,Male,White,Master,1
+1399,43,Female,Black,Master,1
+1400,46,Female,White,High School,1
+1401,62,Male,White,Master,0
+1402,51,Male,Black,Bachelor,0
+1403,40,Non-binary,White,High School,0
+1404,54,Male,Asian,Bachelor,0
+1405,28,Female,White,PhD,1
+1406,23,Non-binary,White,Master,1
+1407,35,Female,Hispanic,High School,1
+1408,38,Male,Black,Master,1
+1409,59,Female,White,Master,1
+1410,53,Male,Black,High School,0
+1411,58,Female,White,Bachelor,1
+1412,55,Male,White,Bachelor,1
+1413,51,Female,Asian,Bachelor,1
+1414,34,Female,White,High School,1
+1415,54,Female,White,Bachelor,1
+1416,42,Female,Hispanic,Master,1
+1417,55,Female,Other,Bachelor,0
+1418,29,Female,White,Master,1
+1419,40,Male,White,Bachelor,1
+1420,59,Female,White,High School,0
+1421,39,Male,Asian,Bachelor,1
+1422,38,Female,Hispanic,Bachelor,0
+1423,44,Male,White,Master,1
+1424,48,Male,White,High School,1
+1425,23,Female,White,Bachelor,1
+1426,44,Male,Hispanic,Bachelor,0
+1427,57,Male,Black,Master,1
+1428,51,Female,Black,High School,0
+1429,29,Female,Other,High School,0
+1430,62,Female,White,High School,1
+1431,24,Male,White,Master,1
+1432,27,Female,White,High School,1
+1433,62,Male,White,High School,1
+1434,34,Female,White,High School,1
+1435,43,Female,White,Bachelor,1
+1436,38,Female,Black,High School,1
+1437,45,Male,Hispanic,Bachelor,1
+1438,63,Male,White,High School,1
+1439,19,Male,White,Bachelor,1
+1440,60,Male,White,Bachelor,1
+1441,18,Male,Hispanic,Bachelor,0
+1442,53,Female,Hispanic,Master,1
+1443,43,Male,Black,PhD,1
+1444,46,Female,White,Bachelor,1
+1445,38,Male,White,Master,0
+1446,28,Female,White,Bachelor,1
+1447,57,Female,Black,Master,0
+1448,28,Male,Hispanic,Bachelor,1
+1449,53,Male,Hispanic,Bachelor,1
+1450,66,Female,White,Bachelor,1
+1451,56,Male,Hispanic,Master,1
+1452,57,Female,Asian,High School,0
+1453,52,Female,White,High School,1
+1454,51,Female,White,Bachelor,1
+1455,64,Male,Asian,High School,0
+1456,41,Female,White,Bachelor,1
+1457,39,Female,Asian,High School,0
+1458,22,Female,Other,Bachelor,1
+1459,50,Male,Black,Master,1
+1460,53,Female,Hispanic,Bachelor,1
+1461,64,Female,Hispanic,Master,0
+1462,37,Female,Black,High School,1
+1463,36,Male,White,High School,1
+1464,52,Female,White,Master,1
+1465,60,Male,White,Master,0
+1466,34,Female,Black,Bachelor,1
+1467,62,Female,White,PhD,1
+1468,60,Female,White,Master,0
+1469,51,Female,White,PhD,1
+1470,26,Male,Hispanic,Bachelor,0
+1471,43,Non-binary,Other,High School,1
+1472,19,Male,Other,Bachelor,1
+1473,26,Female,White,Bachelor,0
+1474,26,Female,Hispanic,High School,0
+1475,57,Female,Hispanic,Master,1
+1476,34,Male,White,High School,0
+1477,18,Female,White,Bachelor,1
+1478,42,Female,White,Bachelor,0
+1479,60,Male,Asian,Master,1
+1480,57,Female,White,High School,1
+1481,59,Male,White,Master,0
+1482,42,Male,Black,Bachelor,0
+1483,56,Male,White,Master,1
+1484,52,Male,White,PhD,1
+1485,20,Female,Black,Bachelor,1
+1486,54,Male,White,PhD,1
+1487,61,Male,Hispanic,High School,1
+1488,61,Male,White,Bachelor,1
+1489,47,Female,Black,High School,1
+1490,55,Female,Black,High School,0
+1491,51,Male,White,Master,1
+1492,29,Male,Black,High School,1
+1493,36,Female,Black,Bachelor,0
+1494,54,Male,Hispanic,Bachelor,0
+1495,61,Female,Hispanic,Bachelor,1
+1496,66,Male,Hispanic,Bachelor,1
+1497,34,Female,White,Master,1
+1498,27,Male,White,High School,0
+1499,66,Female,Asian,High School,0
+1500,64,Male,White,Bachelor,0
+1501,29,Non-binary,White,Bachelor,1
+1502,33,Male,White,Bachelor,0
+1503,41,Female,White,Master,1
+1504,36,Male,White,Bachelor,1
+1505,25,Male,Other,Bachelor,1
+1506,48,Female,White,High School,1
+1507,38,Male,White,Bachelor,1
+1508,34,Female,Other,Bachelor,1
+1509,40,Female,Other,High School,0
+1510,54,Female,White,High School,1
+1511,33,Male,White,Master,1
+1512,23,Female,Hispanic,Bachelor,0
+1513,25,Male,Hispanic,High School,1
+1514,42,Female,Black,Bachelor,1
+1515,35,Female,Asian,High School,1
+1516,42,Female,Black,Master,0
+1517,29,Female,White,High School,1
+1518,32,Female,Black,Bachelor,0
+1519,43,Male,White,Bachelor,1
+1520,58,Female,Hispanic,Master,1
+1521,62,Male,Black,High School,1
+1522,43,Female,White,Bachelor,0
+1523,64,Female,White,Bachelor,0
+1524,49,Female,White,Bachelor,0
+1525,27,Male,White,Bachelor,1
+1526,33,Female,Black,Bachelor,0
+1527,24,Male,White,Master,1
+1528,34,Male,Hispanic,High School,1
+1529,40,Male,White,High School,1
+1530,43,Male,Black,Master,1
+1531,38,Male,Hispanic,High School,1
+1532,39,Female,Black,PhD,1
+1533,24,Male,White,Bachelor,1
+1534,31,Male,Other,Bachelor,1
+1535,32,Female,White,High School,0
+1536,24,Male,White,High School,1
+1537,26,Female,White,Bachelor,1
+1538,65,Female,White,Master,1
+1539,25,Female,Other,PhD,1
+1540,40,Female,White,High School,0
+1541,46,Female,Hispanic,High School,0
+1542,35,Female,Hispanic,High School,0
+1543,48,Male,White,Master,1
+1544,47,Female,Black,High School,1
+1545,56,Male,White,High School,1
+1546,52,Female,White,High School,1
+1547,35,Male,White,Bachelor,0
+1548,59,Female,Asian,PhD,1
+1549,56,Male,Other,Bachelor,1
+1550,34,Female,White,High School,1
+1551,31,Male,White,Bachelor,0
+1552,48,Female,Hispanic,Bachelor,1
+1553,41,Female,White,High School,0
+1554,52,Male,Asian,High School,1
+1555,61,Female,White,Bachelor,1
+1556,62,Female,White,High School,1
+1557,51,Female,Hispanic,High School,0
+1558,20,Male,White,Bachelor,0
+1559,54,Male,Asian,Master,1
+1560,60,Male,Asian,Bachelor,1
+1561,57,Male,White,Bachelor,0
+1562,43,Female,White,Bachelor,1
+1563,40,Male,Other,Bachelor,1
+1564,61,Female,Asian,High School,1
+1565,56,Male,White,Master,1
+1566,32,Female,Hispanic,High School,1
+1567,66,Female,White,Bachelor,1
+1568,21,Female,White,Master,1
+1569,46,Male,Hispanic,Bachelor,0
+1570,39,Male,White,PhD,1
+1571,42,Male,Asian,Bachelor,0
+1572,30,Male,White,Master,1
+1573,35,Male,Black,Master,1
+1574,50,Male,White,PhD,1
+1575,33,Male,White,Master,1
+1576,62,Female,Black,Master,1
+1577,59,Male,White,Bachelor,0
+1578,61,Female,White,Bachelor,1
+1579,19,Male,White,High School,1
+1580,52,Female,White,Bachelor,0
+1581,59,Female,Hispanic,PhD,1
+1582,51,Female,White,Bachelor,1
+1583,47,Female,White,Master,0
+1584,30,Male,White,Master,1
+1585,30,Female,White,High School,1
+1586,35,Male,White,High School,0
+1587,49,Male,White,Bachelor,1
+1588,49,Female,White,High School,0
+1589,52,Female,Hispanic,Bachelor,1
+1590,56,Male,Hispanic,PhD,0
+1591,63,Female,White,Master,1
+1592,46,Female,White,Bachelor,0
+1593,66,Male,White,High School,1
+1594,46,Male,White,High School,1
+1595,61,Male,White,Bachelor,1
+1596,33,Male,White,Bachelor,1
+1597,61,Male,White,High School,0
+1598,64,Male,White,Bachelor,0
+1599,27,Male,White,High School,1
+1600,47,Female,White,Master,1
+1601,42,Female,White,High School,1
+1602,56,Non-binary,White,High School,1
+1603,37,Male,White,High School,1
+1604,22,Female,White,Bachelor,1
+1605,18,Female,White,Bachelor,1
+1606,47,Female,White,Bachelor,0
+1607,66,Male,White,Bachelor,1
+1608,20,Female,White,Bachelor,1
+1609,62,Male,White,Bachelor,1
+1610,31,Male,White,Bachelor,0
+1611,47,Female,Black,High School,1
+1612,21,Female,White,Bachelor,1
+1613,35,Male,White,Master,1
+1614,54,Female,Hispanic,Master,0
+1615,42,Female,White,Bachelor,1
+1616,65,Female,White,High School,0
+1617,18,Female,Hispanic,High School,1
+1618,63,Male,Hispanic,PhD,0
+1619,32,Non-binary,White,High School,1
+1620,26,Female,White,High School,1
+1621,32,Male,White,High School,1
+1622,66,Female,White,Bachelor,1
+1623,41,Female,White,High School,1
+1624,21,Female,White,Bachelor,0
+1625,29,Female,White,Bachelor,0
+1626,54,Female,Asian,Master,0
+1627,54,Female,Other,High School,1
+1628,60,Female,White,High School,1
+1629,23,Female,Black,Bachelor,0
+1630,56,Male,White,Bachelor,1
+1631,63,Female,Hispanic,Bachelor,0
+1632,41,Male,White,Master,1
+1633,28,Female,White,High School,0
+1634,30,Female,White,Master,1
+1635,51,Female,White,Bachelor,0
+1636,42,Female,White,High School,1
+1637,24,Female,Hispanic,Master,0
+1638,21,Male,Black,Bachelor,1
+1639,25,Female,White,High School,0
+1640,37,Male,White,High School,0
+1641,46,Male,White,High School,1
+1642,62,Male,Asian,Bachelor,1
+1643,63,Female,Asian,High School,0
+1644,27,Female,Other,High School,1
+1645,60,Female,Hispanic,High School,0
+1646,51,Male,White,Bachelor,1
+1647,43,Female,White,Master,1
+1648,58,Male,White,Master,1
+1649,66,Male,Asian,High School,0
+1650,20,Female,White,Master,1
+1651,23,Male,White,Bachelor,0
+1652,22,Male,Hispanic,Master,0
+1653,22,Male,White,Bachelor,1
+1654,64,Male,White,Bachelor,1
+1655,40,Female,Black,Master,1
+1656,66,Male,White,High School,1
+1657,26,Female,White,Bachelor,0
+1658,52,Female,Hispanic,Master,1
+1659,37,Female,Black,Master,0
+1660,66,Non-binary,Other,PhD,1
+1661,59,Male,White,Bachelor,1
+1662,52,Female,White,High School,0
+1663,35,Non-binary,Hispanic,High School,0
+1664,34,Male,White,Bachelor,1
+1665,41,Female,White,Bachelor,1
+1666,20,Male,Hispanic,High School,0
+1667,49,Male,White,High School,1
+1668,52,Male,White,Bachelor,1
+1669,55,Female,White,Master,1
+1670,30,Female,White,PhD,1
+1671,64,Female,White,Master,1
+1672,42,Male,White,Master,1
+1673,26,Male,Hispanic,Bachelor,0
+1674,21,Male,Asian,PhD,1
+1675,31,Male,White,Bachelor,1
+1676,54,Female,White,Master,1
+1677,51,Male,White,PhD,1
+1678,28,Female,White,Master,0
+1679,58,Female,Black,Bachelor,0
+1680,20,Male,Hispanic,High School,1
+1681,45,Female,Hispanic,High School,0
+1682,46,Male,White,High School,1
+1683,26,Male,White,High School,1
+1684,20,Male,White,High School,1
+1685,42,Female,White,Bachelor,1
+1686,51,Male,Black,Bachelor,1
+1687,29,Female,Other,Bachelor,0
+1688,59,Female,White,High School,1
+1689,26,Male,Hispanic,Bachelor,1
+1690,32,Female,White,Bachelor,1
+1691,57,Female,White,Bachelor,1
+1692,42,Male,Black,Master,1
+1693,22,Male,White,High School,0
+1694,28,Female,White,High School,1
+1695,51,Male,Black,Bachelor,1
+1696,41,Female,Hispanic,High School,0
+1697,32,Male,White,Bachelor,1
+1698,55,Male,White,Bachelor,0
+1699,25,Male,Asian,High School,1
+1700,22,Male,Hispanic,High School,0
+1701,65,Female,Hispanic,Bachelor,1
+1702,43,Male,White,Bachelor,0
+1703,35,Female,Asian,Bachelor,1
+1704,23,Female,White,High School,1
+1705,54,Female,Black,High School,0
+1706,65,Female,White,High School,1
+1707,30,Male,Black,High School,0
+1708,45,Male,White,Master,1
+1709,22,Female,White,High School,1
+1710,30,Male,White,Bachelor,1
+1711,34,Female,White,Master,1
+1712,57,Male,Black,High School,0
+1713,62,Female,Hispanic,Bachelor,0
+1714,49,Female,Other,PhD,1
+1715,46,Female,White,Master,0
+1716,20,Female,Hispanic,Bachelor,1
+1717,57,Female,Black,Master,1
+1718,51,Female,White,Master,1
+1719,57,Female,White,Bachelor,1
+1720,44,Male,Black,Master,0
+1721,30,Male,Asian,Bachelor,1
+1722,62,Male,Black,Bachelor,0
+1723,50,Female,White,PhD,1
+1724,23,Male,White,Master,1
+1725,41,Female,White,Bachelor,1
+1726,36,Female,Hispanic,High School,0
+1727,33,Female,Hispanic,Bachelor,1
+1728,57,Female,White,Bachelor,0
+1729,45,Male,Hispanic,Bachelor,1
+1730,50,Female,White,PhD,1
+1731,65,Female,Other,Master,0
+1732,58,Male,White,Bachelor,0
+1733,30,Male,White,High School,1
+1734,60,Female,White,Bachelor,0
+1735,62,Female,White,Bachelor,0
+1736,42,Male,White,Bachelor,0
+1737,59,Female,White,Bachelor,0
+1738,53,Female,Black,Bachelor,0
+1739,44,Male,Hispanic,High School,1
+1740,55,Non-binary,White,High School,0
+1741,24,Female,White,Bachelor,1
+1742,22,Female,White,High School,0
+1743,60,Female,Hispanic,Bachelor,1
+1744,62,Male,White,Bachelor,1
+1745,48,Male,Asian,Bachelor,0
+1746,40,Male,Hispanic,High School,1
+1747,59,Male,White,Master,1
+1748,27,Male,White,Bachelor,1
+1749,49,Female,White,Bachelor,0
+1750,60,Female,White,Bachelor,1
+1751,47,Female,Hispanic,High School,1
+1752,56,Female,Asian,Bachelor,0
+1753,48,Female,White,PhD,1
+1754,35,Male,Black,Master,1
+1755,53,Male,Hispanic,PhD,0
+1756,19,Female,Black,Master,0
+1757,31,Female,White,High School,1
+1758,30,Male,White,High School,1
+1759,46,Female,White,Bachelor,1
+1760,29,Male,Hispanic,Bachelor,1
+1761,56,Female,White,High School,1
+1762,19,Female,White,Master,0
+1763,49,Female,Asian,Bachelor,0
+1764,30,Non-binary,Black,High School,0
+1765,63,Female,Asian,Master,1
+1766,44,Female,White,Master,1
+1767,66,Female,White,Bachelor,1
+1768,58,Female,Asian,Master,1
+1769,34,Female,White,Master,1
+1770,57,Male,White,Bachelor,1
+1771,48,Male,White,High School,0
+1772,51,Female,White,High School,1
+1773,41,Male,White,Bachelor,1
+1774,62,Male,Hispanic,Bachelor,1
+1775,52,Non-binary,Asian,PhD,0
+1776,65,Female,Asian,Master,1
+1777,23,Female,White,Master,1
+1778,36,Male,White,PhD,1
+1779,47,Male,White,Master,1
+1780,24,Male,Hispanic,High School,1
+1781,27,Male,White,High School,1
+1782,58,Male,Black,Master,1
+1783,49,Male,Hispanic,Bachelor,1
+1784,51,Female,White,Bachelor,0
+1785,45,Female,White,Bachelor,0
+1786,32,Male,Other,Master,1
+1787,47,Male,Other,Bachelor,1
+1788,54,Female,White,Master,1
+1789,46,Male,White,High School,1
+1790,39,Female,Other,Bachelor,0
+1791,21,Male,White,High School,0
+1792,37,Male,White,Master,1
+1793,49,Male,White,High School,1
+1794,53,Male,White,Bachelor,1
+1795,21,Female,White,High School,1
+1796,44,Female,White,High School,1
+1797,34,Female,White,Bachelor,1
+1798,29,Male,White,Bachelor,0
+1799,39,Female,Other,High School,1
+1800,34,Female,Hispanic,Bachelor,0
+1801,27,Female,Hispanic,Bachelor,0
+1802,18,Male,Black,Bachelor,1
+1803,39,Male,White,High School,1
+1804,43,Female,White,Master,1
+1805,35,Female,Asian,High School,1
+1806,31,Male,White,Bachelor,0
+1807,64,Male,White,High School,0
+1808,46,Female,Hispanic,Bachelor,0
+1809,29,Female,White,High School,0
+1810,53,Male,White,PhD,1
+1811,52,Female,Other,High School,0
+1812,29,Female,Hispanic,High School,0
+1813,24,Female,White,High School,1
+1814,46,Female,Other,Master,1
+1815,28,Male,Black,Bachelor,0
+1816,50,Female,Hispanic,Bachelor,1
+1817,23,Male,White,Master,1
+1818,64,Female,White,Master,0
+1819,32,Female,Black,Bachelor,0
+1820,49,Male,Asian,High School,1
+1821,28,Female,Black,Master,1
+1822,40,Non-binary,White,High School,0
+1823,43,Male,White,Master,1
+1824,51,Female,Hispanic,Bachelor,1
+1825,63,Female,White,Master,1
+1826,51,Female,White,Bachelor,0
+1827,46,Male,White,Bachelor,0
+1828,21,Male,White,PhD,1
+1829,34,Male,Black,High School,1
+1830,52,Female,Black,High School,0
+1831,30,Male,White,Bachelor,1
+1832,58,Female,White,PhD,1
+1833,56,Male,Hispanic,High School,1
+1834,32,Female,White,High School,1
+1835,46,Male,White,High School,1
+1836,46,Male,Other,High School,1
+1837,28,Male,White,Master,0
+1838,49,Male,Asian,Bachelor,1
+1839,19,Female,White,Bachelor,0
+1840,64,Female,White,Bachelor,0
+1841,31,Female,White,Master,1
+1842,37,Female,Other,High School,0
+1843,39,Female,White,Bachelor,1
+1844,28,Female,White,Bachelor,0
+1845,44,Female,Other,High School,0
+1846,20,Female,White,Bachelor,1
+1847,34,Male,White,High School,1
+1848,61,Female,White,High School,0
+1849,45,Male,Hispanic,High School,0
+1850,46,Female,White,Master,1
+1851,38,Female,White,High School,1
+1852,64,Male,Black,Master,1
+1853,33,Male,White,High School,0
+1854,54,Female,Other,Master,1
+1855,37,Female,Asian,Master,0
+1856,23,Male,Hispanic,PhD,1
+1857,36,Female,Hispanic,Master,0
+1858,22,Female,Black,High School,0
+1859,20,Female,White,Bachelor,0
+1860,18,Non-binary,Hispanic,Bachelor,0
+1861,55,Female,White,High School,1
+1862,32,Male,White,High School,0
+1863,51,Female,Hispanic,Master,1
+1864,52,Female,White,Bachelor,0
+1865,66,Male,Hispanic,Bachelor,0
+1866,42,Male,White,Master,1
+1867,41,Male,Black,Bachelor,1
+1868,29,Female,White,Bachelor,1
+1869,35,Female,Black,Master,1
+1870,32,Female,Hispanic,High School,0
+1871,61,Female,Black,Bachelor,0
+1872,33,Female,White,PhD,0
+1873,44,Male,White,Master,1
+1874,25,Male,White,Master,1
+1875,63,Male,Black,Bachelor,0
+1876,42,Male,Asian,Master,1
+1877,34,Female,White,High School,1
+1878,46,Female,Hispanic,High School,0
+1879,25,Male,Hispanic,Bachelor,0
+1880,32,Female,White,Bachelor,1
+1881,44,Female,Black,High School,0
+1882,63,Male,Hispanic,Bachelor,1
+1883,24,Male,White,High School,0
+1884,20,Female,White,Bachelor,1
+1885,46,Male,White,Master,1
+1886,61,Female,Other,Bachelor,1
+1887,41,Male,Asian,High School,0
+1888,20,Male,Hispanic,Bachelor,1
+1889,37,Female,White,Bachelor,0
+1890,63,Non-binary,White,Bachelor,1
+1891,32,Male,White,Bachelor,1
+1892,42,Male,White,Bachelor,1
+1893,47,Male,Black,PhD,1
+1894,31,Male,Other,High School,1
+1895,24,Male,Asian,Bachelor,1
+1896,34,Female,Black,Bachelor,1
+1897,61,Male,White,Bachelor,1
+1898,37,Male,White,High School,1
+1899,53,Female,White,High School,1
+1900,26,Male,Hispanic,High School,0
+1901,55,Male,Hispanic,PhD,1
+1902,65,Male,White,Bachelor,1
+1903,39,Non-binary,White,Bachelor,0
+1904,19,Male,White,Master,1
+1905,41,Female,White,High School,1
+1906,25,Female,White,Master,1
+1907,28,Male,White,Bachelor,0
+1908,30,Non-binary,White,Bachelor,1
+1909,34,Male,Hispanic,Master,1
+1910,25,Male,Black,Master,1
+1911,38,Female,White,Master,1
+1912,35,Female,White,High School,1
+1913,47,Female,White,PhD,1
+1914,35,Male,White,PhD,1
+1915,63,Female,White,Bachelor,1
+1916,64,Female,White,High School,0
+1917,48,Male,Black,High School,1
+1918,55,Male,Hispanic,PhD,1
+1919,49,Male,White,Bachelor,1
+1920,28,Male,Hispanic,Bachelor,1
+1921,62,Female,White,High School,1
+1922,42,Male,White,High School,1
+1923,50,Non-binary,White,Bachelor,1
+1924,55,Male,Black,Bachelor,1
+1925,58,Female,Asian,PhD,1
+1926,25,Male,Hispanic,Bachelor,0
+1927,28,Male,Asian,Master,1
+1928,39,Male,Asian,High School,0
+1929,41,Male,Black,High School,1
+1930,58,Female,White,Bachelor,1
+1931,34,Non-binary,White,High School,1
+1932,29,Female,Other,High School,1
+1933,63,Male,Hispanic,PhD,1
+1934,49,Male,White,Bachelor,1
+1935,32,Male,Hispanic,High School,0
+1936,33,Female,White,High School,0
+1937,39,Female,White,High School,1
+1938,45,Female,White,PhD,1
+1939,37,Male,Black,High School,1
+1940,50,Female,Hispanic,Bachelor,0
+1941,27,Female,White,Bachelor,0
+1942,57,Female,White,High School,1
+1943,49,Female,White,High School,1
+1944,50,Female,Black,High School,1
+1945,19,Female,White,High School,1
+1946,50,Male,White,High School,1
+1947,50,Female,White,High School,1
+1948,58,Male,White,Master,1
+1949,30,Female,White,High School,1
+1950,47,Male,Hispanic,Master,0
+1951,50,Female,White,Master,1
+1952,30,Female,Black,Bachelor,0
+1953,43,Female,White,High School,0
+1954,39,Female,White,High School,0
+1955,56,Female,White,Bachelor,0
+1956,19,Female,Hispanic,Bachelor,0
+1957,55,Female,Asian,Bachelor,1
+1958,56,Female,Asian,High School,0
+1959,43,Male,Black,Master,0
+1960,63,Non-binary,White,High School,1
+1961,32,Female,Hispanic,Bachelor,1
+1962,51,Female,Black,Bachelor,1
+1963,59,Male,White,High School,0
+1964,61,Male,Hispanic,Bachelor,1
+1965,66,Female,White,Master,1
+1966,57,Male,White,Master,1
+1967,28,Female,White,Master,0
+1968,20,Female,White,Bachelor,1
+1969,23,Male,White,Bachelor,1
+1970,26,Female,White,High School,1
+1971,23,Female,White,Bachelor,1
+1972,26,Female,White,High School,0
+1973,56,Female,Black,Bachelor,0
+1974,48,Male,Hispanic,Bachelor,1
+1975,49,Female,White,Bachelor,0
+1976,58,Male,White,Bachelor,0
+1977,29,Female,White,Master,1
+1978,25,Female,Asian,Bachelor,1
+1979,25,Male,White,PhD,1
+1980,45,Female,White,Master,1
+1981,37,Female,White,Bachelor,0
+1982,64,Male,Hispanic,Bachelor,0
+1983,24,Non-binary,White,High School,1
+1984,28,Male,White,Master,0
+1985,37,Male,White,Bachelor,1
+1986,33,Female,White,PhD,1
+1987,21,Female,Hispanic,Bachelor,1
+1988,23,Female,Hispanic,Master,0
+1989,39,Female,Black,Master,0
+1990,43,Female,Hispanic,Bachelor,0
+1991,20,Female,White,High School,0
+1992,58,Male,Black,Bachelor,1
+1993,59,Male,Black,Bachelor,1
+1994,31,Male,White,High School,0
+1995,28,Male,Hispanic,Master,0
+1996,35,Female,White,Bachelor,0
+1997,29,Male,White,PhD,0
+1998,40,Male,Black,Master,1
+1999,29,Male,Black,Bachelor,1
+2000,30,Female,Black,PhD,1
+2001,42,Female,White,Bachelor,0
+2002,62,Female,Hispanic,Master,1
+2003,36,Female,White,Bachelor,0
+2004,63,Female,White,Bachelor,1
+2005,53,Female,Other,Bachelor,1
+2006,62,Male,Hispanic,Bachelor,1
+2007,25,Female,White,Bachelor,1
+2008,46,Female,Hispanic,Bachelor,0
+2009,49,Female,White,High School,1
+2010,61,Female,White,Master,1
+2011,35,Female,White,Bachelor,1
+2012,23,Female,Other,Bachelor,0
+2013,35,Female,White,Bachelor,0
+2014,36,Male,Black,Master,1
+2015,39,Female,White,PhD,1
+2016,54,Female,Hispanic,Bachelor,1
+2017,49,Female,White,High School,1
+2018,58,Female,Black,Bachelor,0
+2019,20,Male,White,Bachelor,1
+2020,45,Female,Hispanic,Master,0
+2021,27,Male,Other,Bachelor,1
+2022,52,Female,Black,PhD,0
+2023,46,Male,White,Bachelor,1
+2024,32,Female,Asian,PhD,1
+2025,50,Male,White,High School,0
+2026,24,Female,Hispanic,Master,1
+2027,29,Male,Hispanic,Master,1
+2028,66,Female,White,PhD,1
+2029,47,Female,White,High School,1
+2030,38,Non-binary,White,High School,1
+2031,48,Female,White,Bachelor,1
+2032,41,Female,Black,High School,0
+2033,37,Male,White,High School,1
+2034,54,Male,White,High School,1
+2035,21,Male,White,Bachelor,1
+2036,45,Female,White,Bachelor,1
+2037,61,Female,White,High School,1
+2038,37,Male,Hispanic,High School,0
+2039,41,Female,White,Bachelor,1
+2040,66,Female,Hispanic,Bachelor,1
+2041,49,Female,White,High School,1
+2042,58,Male,White,Bachelor,1
+2043,53,Male,Hispanic,Master,1
+2044,51,Female,White,PhD,1
+2045,53,Female,White,PhD,1
+2046,19,Male,White,Master,1
+2047,32,Female,White,Bachelor,1
+2048,51,Female,White,Bachelor,1
+2049,53,Female,White,Bachelor,1
+2050,23,Female,White,Bachelor,1
+2051,56,Male,White,High School,0
+2052,59,Male,White,Bachelor,1
+2053,29,Female,White,Bachelor,0
+2054,20,Male,White,High School,0
+2055,62,Male,White,Master,1
+2056,35,Male,Other,High School,1
+2057,57,Male,White,High School,1
+2058,38,Male,Black,High School,1
+2059,32,Male,White,Bachelor,1
+2060,50,Male,Asian,High School,0
+2061,52,Male,White,Master,1
+2062,43,Female,Other,Bachelor,1
+2063,25,Female,Black,Bachelor,0
+2064,53,Female,White,Bachelor,1
+2065,65,Male,Asian,Bachelor,0
+2066,47,Male,White,Master,1
+2067,40,Female,White,Bachelor,0
+2068,59,Female,Hispanic,Master,1
+2069,61,Female,Asian,Master,1
+2070,31,Male,White,Master,1
+2071,31,Female,White,Bachelor,1
+2072,19,Male,Hispanic,High School,0
+2073,54,Male,Black,Bachelor,0
+2074,22,Female,Hispanic,Bachelor,1
+2075,55,Female,Black,Bachelor,1
+2076,62,Male,White,Master,1
+2077,58,Male,Asian,Master,0
+2078,64,Female,White,Master,1
+2079,31,Male,White,High School,1
+2080,56,Male,White,High School,1
+2081,42,Male,White,High School,1
+2082,37,Female,White,Master,0
+2083,19,Male,Hispanic,Master,1
+2084,56,Non-binary,White,Bachelor,1
+2085,23,Female,White,Bachelor,1
+2086,34,Non-binary,Hispanic,Bachelor,1
+2087,42,Female,White,PhD,1
+2088,45,Male,White,Master,1
+2089,19,Male,White,Bachelor,1
+2090,52,Male,Other,Bachelor,0
+2091,54,Male,White,High School,1
+2092,22,Female,White,Bachelor,1
+2093,18,Male,White,Bachelor,1
+2094,57,Male,White,High School,1
+2095,29,Male,White,Master,1
+2096,53,Female,White,Bachelor,0
+2097,62,Male,White,PhD,1
+2098,40,Male,Other,High School,1
+2099,64,Male,White,Bachelor,1
+2100,48,Female,White,Bachelor,1
+2101,28,Female,White,High School,1
+2102,27,Male,White,Bachelor,1
+2103,20,Male,Black,High School,1
+2104,31,Male,White,High School,1
+2105,33,Male,White,High School,1
+2106,27,Female,Hispanic,High School,1
+2107,46,Female,White,Bachelor,0
+2108,27,Male,White,High School,1
+2109,29,Female,White,Bachelor,1
+2110,47,Male,White,Master,0
+2111,58,Female,White,Bachelor,1
+2112,18,Female,White,Master,1
+2113,22,Male,White,Bachelor,1
+2114,37,Female,Asian,Master,0
+2115,25,Male,White,High School,0
+2116,60,Male,White,Master,1
+2117,29,Male,White,Master,1
+2118,18,Male,White,Bachelor,0
+2119,37,Female,White,High School,1
+2120,45,Female,Asian,Bachelor,1
+2121,60,Female,Black,Bachelor,0
+2122,54,Female,Other,Bachelor,1
+2123,64,Female,Hispanic,Bachelor,1
+2124,54,Male,White,High School,0
+2125,29,Female,White,Master,1
+2126,54,Male,White,High School,1
+2127,66,Female,White,High School,1
+2128,66,Female,Asian,Bachelor,0
+2129,61,Male,White,High School,1
+2130,45,Female,Hispanic,High School,1
+2131,64,Female,White,High School,1
+2132,32,Female,Asian,Bachelor,0
+2133,23,Male,Asian,Master,1
+2134,61,Male,Black,Master,0
+2135,37,Male,Black,Bachelor,0
+2136,31,Male,White,High School,1
+2137,19,Male,Hispanic,Bachelor,1
+2138,26,Female,Other,Bachelor,0
+2139,54,Male,Hispanic,Bachelor,1
+2140,37,Female,Black,High School,1
+2141,43,Female,Black,High School,1
+2142,46,Female,Hispanic,Master,0
+2143,18,Male,White,Bachelor,1
+2144,52,Female,Hispanic,Master,1
+2145,23,Female,White,High School,0
+2146,54,Male,White,High School,0
+2147,22,Male,White,Bachelor,1
+2148,50,Female,White,Bachelor,1
+2149,66,Male,White,High School,1
+2150,31,Male,White,High School,1
+2151,29,Male,White,High School,1
+2152,59,Male,White,High School,1
+2153,37,Female,White,Bachelor,1
+2154,41,Male,Hispanic,PhD,0
+2155,60,Female,Other,Bachelor,0
+2156,51,Female,Hispanic,Bachelor,1
+2157,42,Female,Other,Bachelor,0
+2158,46,Female,Black,Bachelor,1
+2159,56,Female,White,High School,1
+2160,48,Male,Black,Bachelor,0
+2161,64,Female,Hispanic,Bachelor,1
+2162,60,Female,White,High School,1
+2163,40,Female,White,Master,1
+2164,61,Female,Hispanic,Bachelor,1
+2165,55,Male,White,Bachelor,1
+2166,37,Male,Black,High School,0
+2167,40,Female,White,Bachelor,1
+2168,62,Male,White,Master,1
+2169,33,Female,White,High School,1
+2170,59,Male,White,High School,0
+2171,25,Male,White,Bachelor,0
+2172,38,Male,Black,High School,1
+2173,18,Male,Hispanic,Bachelor,0
+2174,25,Female,Hispanic,Bachelor,0
+2175,46,Male,White,High School,1
+2176,49,Non-binary,Hispanic,High School,1
+2177,55,Female,White,Bachelor,1
+2178,22,Male,White,High School,0
+2179,64,Female,White,High School,0
+2180,39,Female,White,Master,1
+2181,64,Female,White,High School,1
+2182,51,Male,White,Bachelor,1
+2183,18,Female,Black,High School,0
+2184,43,Female,Hispanic,Bachelor,0
+2185,60,Male,White,High School,1
+2186,27,Male,White,PhD,1
+2187,47,Female,White,Bachelor,1
+2188,35,Male,White,High School,1
+2189,34,Female,Black,Bachelor,0
+2190,43,Male,White,Bachelor,1
+2191,25,Female,Black,Bachelor,0
+2192,64,Female,Hispanic,Master,1
+2193,57,Male,White,Bachelor,0
+2194,66,Male,Other,High School,1
+2195,29,Female,White,Bachelor,0
+2196,44,Female,White,High School,0
+2197,25,Female,White,Master,1
+2198,42,Male,White,Bachelor,1
+2199,63,Male,White,High School,1
+2200,21,Male,White,High School,1
+2201,50,Female,Hispanic,Master,0
+2202,18,Male,Asian,Master,0
+2203,36,Male,Black,Bachelor,0
+2204,48,Female,White,High School,0
+2205,33,Female,Black,Bachelor,0
+2206,31,Male,Black,High School,0
+2207,65,Male,Hispanic,High School,0
+2208,22,Female,Hispanic,High School,0
+2209,58,Female,Hispanic,High School,1
+2210,43,Male,White,Bachelor,1
+2211,45,Female,Black,PhD,0
+2212,19,Female,White,Bachelor,1
+2213,23,Male,Other,High School,0
+2214,26,Male,White,Bachelor,1
+2215,50,Female,White,Bachelor,0
+2216,58,Female,White,High School,1
+2217,42,Male,Hispanic,Master,1
+2218,65,Female,White,Bachelor,1
+2219,30,Female,White,PhD,1
+2220,26,Male,Other,Bachelor,0
+2221,30,Female,Asian,Bachelor,0
+2222,48,Female,White,High School,1
+2223,58,Male,White,Bachelor,1
+2224,28,Male,Hispanic,High School,1
+2225,21,Male,Asian,Master,1
+2226,51,Female,White,Master,1
+2227,55,Non-binary,Black,Master,0
+2228,63,Male,White,Bachelor,0
+2229,21,Female,Hispanic,Master,1
+2230,55,Female,Black,High School,0
+2231,36,Female,White,Bachelor,1
+2232,23,Male,White,Bachelor,1
+2233,51,Male,Asian,Bachelor,1
+2234,35,Male,Black,Bachelor,0
+2235,30,Female,White,High School,1
+2236,58,Male,Black,High School,1
+2237,40,Female,Black,Master,1
+2238,36,Male,White,Bachelor,1
+2239,62,Male,Hispanic,High School,1
+2240,28,Female,Black,Master,0
+2241,18,Female,Asian,Master,0
+2242,41,Male,White,High School,0
+2243,24,Male,White,Master,1
+2244,42,Non-binary,White,Master,1
+2245,38,Male,Black,Master,1
+2246,32,Male,Black,Master,1
+2247,18,Female,Asian,Bachelor,0
+2248,29,Male,Hispanic,Bachelor,1
+2249,24,Male,White,High School,1
+2250,32,Male,Other,High School,0
+2251,38,Male,White,Bachelor,1
+2252,36,Male,Hispanic,Bachelor,0
+2253,46,Male,White,High School,1
+2254,42,Male,Black,Bachelor,0
+2255,50,Male,Hispanic,High School,1
+2256,66,Female,Black,Master,0
+2257,49,Male,White,High School,1
+2258,66,Male,White,Bachelor,1
+2259,52,Female,White,Bachelor,1
+2260,61,Female,Hispanic,High School,0
+2261,55,Male,White,PhD,1
+2262,43,Female,Asian,Bachelor,0
+2263,28,Male,White,Bachelor,0
+2264,52,Male,White,High School,0
+2265,25,Female,Hispanic,Bachelor,1
+2266,63,Female,Black,High School,0
+2267,31,Male,Other,Bachelor,1
+2268,27,Male,Black,Bachelor,0
+2269,19,Female,White,Master,1
+2270,63,Male,White,Bachelor,1
+2271,26,Female,White,High School,0
+2272,20,Male,White,High School,0
+2273,38,Female,Hispanic,Bachelor,1
+2274,43,Female,White,High School,0
+2275,25,Female,White,High School,1
+2276,65,Female,White,Master,0
+2277,19,Female,White,High School,0
+2278,23,Male,White,Master,1
+2279,45,Male,Hispanic,High School,0
+2280,46,Male,Hispanic,PhD,1
+2281,43,Female,Hispanic,Bachelor,0
+2282,42,Female,Hispanic,Bachelor,1
+2283,29,Male,White,High School,1
+2284,22,Male,Hispanic,Master,0
+2285,51,Male,White,Master,1
+2286,65,Female,White,Bachelor,1
+2287,54,Male,Black,Bachelor,0
+2288,32,Female,White,Bachelor,1
+2289,61,Non-binary,Hispanic,High School,0
+2290,53,Male,White,Bachelor,1
+2291,32,Male,Hispanic,Master,0
+2292,60,Male,White,Bachelor,1
+2293,65,Male,White,High School,1
+2294,40,Male,Hispanic,Bachelor,1
+2295,23,Male,White,Bachelor,0
+2296,63,Female,White,High School,1
+2297,61,Male,White,High School,0
+2298,60,Female,Black,High School,0
+2299,62,Female,Black,Master,0
+2300,38,Female,White,High School,1
+2301,40,Male,Other,Bachelor,1
+2302,60,Female,Hispanic,Bachelor,0
+2303,33,Male,Hispanic,Master,1
+2304,64,Female,Hispanic,PhD,1
+2305,32,Female,White,High School,1
+2306,42,Female,Black,High School,0
+2307,53,Male,White,Master,1
+2308,28,Female,White,High School,1
+2309,32,Male,Other,High School,0
+2310,21,Male,Black,Master,1
+2311,38,Male,White,PhD,1
+2312,30,Male,White,Bachelor,1
+2313,39,Male,Black,High School,0
+2314,36,Female,White,Bachelor,1
+2315,51,Female,White,High School,1
+2316,31,Male,White,Master,1
+2317,21,Male,White,Master,1
+2318,65,Male,Black,Master,1
+2319,63,Male,White,High School,1
+2320,44,Male,Hispanic,Bachelor,1
+2321,46,Female,White,High School,1
+2322,64,Male,Black,Bachelor,0
+2323,45,Male,Other,Master,1
+2324,52,Male,Black,High School,0
+2325,25,Female,Hispanic,Bachelor,1
+2326,33,Female,Asian,Bachelor,1
+2327,59,Female,White,PhD,1
+2328,53,Female,Hispanic,Master,0
+2329,47,Male,Hispanic,Master,0
+2330,35,Male,White,Bachelor,1
+2331,19,Female,White,High School,1
+2332,66,Male,Asian,Bachelor,0
+2333,30,Female,Hispanic,Bachelor,1
+2334,21,Male,White,Bachelor,0
+2335,43,Male,White,Bachelor,1
+2336,42,Female,Hispanic,Bachelor,0
+2337,47,Female,White,High School,1
+2338,28,Female,Black,High School,1
+2339,24,Male,Hispanic,Bachelor,1
+2340,48,Female,Black,Bachelor,0
+2341,61,Male,White,Bachelor,0
+2342,27,Male,Hispanic,Bachelor,0
+2343,56,Male,Hispanic,High School,1
+2344,30,Male,Black,Master,1
+2345,48,Male,White,Master,1
+2346,24,Male,White,Bachelor,1
+2347,66,Male,Other,Bachelor,0
+2348,59,Male,White,Bachelor,0
+2349,59,Male,White,Bachelor,1
+2350,53,Male,White,Master,1
+2351,37,Male,Hispanic,Bachelor,0
+2352,21,Female,White,Bachelor,0
+2353,24,Male,White,Bachelor,1
+2354,18,Male,White,Bachelor,1
+2355,61,Male,Hispanic,Bachelor,0
+2356,62,Female,White,Bachelor,0
+2357,59,Female,White,Bachelor,1
+2358,64,Female,White,High School,1
+2359,30,Female,Asian,PhD,0
+2360,39,Female,White,Master,1
+2361,38,Female,White,Bachelor,1
+2362,39,Female,White,Bachelor,1
+2363,45,Male,Other,High School,0
+2364,26,Male,Black,High School,0
+2365,43,Male,Other,High School,1
+2366,26,Female,Hispanic,Bachelor,0
+2367,32,Female,White,Master,0
+2368,27,Female,Black,Bachelor,1
+2369,41,Male,White,Bachelor,1
+2370,59,Male,White,Bachelor,0
+2371,25,Male,White,High School,1
+2372,41,Male,White,High School,1
+2373,33,Female,Asian,Master,0
+2374,66,Female,White,Master,1
+2375,43,Male,Hispanic,Bachelor,0
+2376,44,Female,White,Bachelor,1
+2377,54,Male,White,Master,1
+2378,21,Non-binary,Hispanic,High School,1
+2379,41,Male,Black,Master,1
+2380,36,Male,Hispanic,Bachelor,0
+2381,53,Male,White,Bachelor,0
+2382,56,Male,White,High School,0
+2383,27,Male,Hispanic,Bachelor,1
+2384,42,Female,Black,Master,0
+2385,35,Female,White,High School,1
+2386,36,Female,Other,Bachelor,0
+2387,53,Male,Black,High School,0
+2388,27,Female,Asian,Master,1
+2389,50,Male,Hispanic,Bachelor,1
+2390,22,Male,Hispanic,Master,1
+2391,64,Female,White,Bachelor,1
+2392,66,Female,White,High School,0
+2393,52,Male,Hispanic,High School,1
+2394,61,Male,White,High School,1
+2395,51,Non-binary,White,High School,1
+2396,50,Male,White,Bachelor,0
+2397,38,Male,White,High School,1
+2398,34,Female,Asian,Bachelor,1
+2399,39,Male,Hispanic,Bachelor,1
+2400,65,Male,White,Bachelor,1
+2401,54,Male,White,Bachelor,1
+2402,32,Female,Hispanic,Bachelor,0
+2403,52,Female,Black,PhD,1
+2404,45,Female,Other,High School,0
+2405,24,Non-binary,White,Bachelor,1
+2406,49,Female,White,Bachelor,1
+2407,28,Male,White,Bachelor,1
+2408,27,Male,Other,Bachelor,1
+2409,26,Female,Black,Bachelor,0
+2410,31,Female,Black,Bachelor,1
+2411,30,Female,White,Bachelor,1
+2412,42,Female,Hispanic,PhD,0
+2413,19,Male,Hispanic,Master,1
+2414,52,Male,White,High School,1
+2415,24,Male,White,High School,0
+2416,38,Male,White,Master,1
+2417,35,Male,White,PhD,1
+2418,20,Female,White,High School,1
+2419,59,Female,White,Bachelor,1
+2420,56,Male,White,PhD,1
+2421,58,Female,White,Bachelor,1
+2422,66,Female,White,High School,1
+2423,28,Male,Hispanic,Bachelor,1
+2424,56,Female,Black,PhD,1
+2425,41,Female,Black,Master,1
+2426,63,Female,White,Master,1
+2427,36,Female,Black,Bachelor,1
+2428,21,Female,White,High School,1
+2429,43,Male,Hispanic,Master,1
+2430,55,Male,White,High School,1
+2431,59,Male,Black,Master,1
+2432,49,Non-binary,White,Bachelor,0
+2433,56,Male,Hispanic,Master,0
+2434,62,Male,White,High School,1
+2435,63,Female,White,Bachelor,0
+2436,53,Female,White,High School,1
+2437,57,Female,Black,Bachelor,1
+2438,54,Male,Other,Master,0
+2439,50,Male,Hispanic,Bachelor,1
+2440,53,Male,White,Bachelor,0
+2441,20,Male,White,High School,1
+2442,26,Male,Asian,Master,1
+2443,25,Male,White,Bachelor,1
+2444,50,Female,Black,Master,1
+2445,23,Male,Asian,Master,1
+2446,58,Female,Hispanic,Master,1
+2447,56,Female,White,Bachelor,0
+2448,21,Male,White,Bachelor,1
+2449,30,Female,White,Bachelor,1
+2450,66,Male,Hispanic,Master,1
+2451,19,Male,White,Master,1
+2452,22,Female,White,High School,1
+2453,61,Male,White,Bachelor,1
+2454,44,Non-binary,White,High School,0
+2455,49,Male,Black,High School,1
+2456,38,Female,Black,Bachelor,0
+2457,25,Male,White,Master,1
+2458,55,Male,White,High School,0
+2459,25,Male,Asian,Bachelor,1
+2460,20,Female,White,Master,1
+2461,61,Female,Hispanic,Master,0
+2462,20,Female,Asian,Bachelor,1
+2463,39,Female,White,Master,0
+2464,23,Female,White,Bachelor,1
+2465,19,Female,Asian,High School,1
+2466,40,Female,White,High School,1
+2467,61,Female,White,High School,0
+2468,19,Female,White,Bachelor,0
+2469,55,Female,White,Master,1
+2470,34,Male,Hispanic,Master,0
+2471,52,Female,Asian,Bachelor,1
+2472,51,Female,Hispanic,Bachelor,1
+2473,40,Male,White,High School,0
+2474,47,Male,White,Bachelor,0
+2475,25,Male,Black,Master,0
+2476,39,Female,White,High School,0
+2477,61,Female,Black,High School,1
+2478,53,Male,White,Bachelor,1
+2479,22,Female,Black,Bachelor,0
+2480,30,Female,Black,Bachelor,1
+2481,46,Male,White,Bachelor,1
+2482,48,Female,White,Bachelor,0
+2483,64,Non-binary,White,High School,1
+2484,33,Female,White,Bachelor,0
+2485,59,Female,Black,Bachelor,1
+2486,47,Non-binary,Hispanic,Master,0
+2487,33,Female,Hispanic,PhD,0
+2488,29,Male,Other,Master,1
+2489,34,Female,White,Bachelor,1
+2490,33,Female,White,Bachelor,1
+2491,29,Female,White,Bachelor,1
+2492,25,Male,Hispanic,Master,1
+2493,37,Female,White,High School,1
+2494,20,Male,Hispanic,Bachelor,1
+2495,33,Female,White,Bachelor,1
+2496,47,Male,Asian,Bachelor,1
+2497,62,Male,Asian,High School,0
+2498,40,Male,White,Bachelor,1
+2499,45,Male,White,Master,1
+2500,57,Female,Black,Bachelor,0
