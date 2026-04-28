@@ -6,15 +6,41 @@ import numpy as np
 import uuid
 from datetime import datetime
 import os
-import google.generativeai as genai
+import httpx
 
 # Configure Gemini
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-if GEMINI_API_KEY:
-    genai.configure(api_key=GEMINI_API_KEY)
-    gemini_model = genai.GenerativeModel("gemini-1.5-flash")
-else:
-    gemini_model = None
+GEMINI_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+
+async def call_gemini(prompt: str) -> str:
+    """Call Gemini API using HTTPx (bypasses protobuf issues)"""
+    if not GEMINI_API_KEY:
+        raise HTTPException(status_code=503, detail="Gemini API key not configured")
+
+    headers = {"Content-Type": "application/json"}
+    payload = {
+        "contents": [{
+            "parts": [{"text": prompt}]
+        }],
+        "generationConfig": {
+            "temperature": 0.3,
+            "maxOutputTokens": 300,
+        }
+    }
+
+    async with httpx.AsyncClient() as client:
+        resp = await client.post(GEMINI_ENDPOINT, json=payload, headers=headers, timeout=30.0)
+        resp.raise_for_status()
+        data = resp.json()
+
+        # Extract text from response
+        candidates = data.get("candidates", [])
+        if not candidates:
+            raise ValueError("No candidates in Gemini response")
+        parts = candidates[0].get("content", {}).get("parts", [])
+        if not parts:
+            raise ValueError("No content parts in Gemini response")
+        return parts[0].get("text", "").strip()
 
 from app.models.schemas import (
     AuditRequest,
@@ -829,11 +855,7 @@ async def load_sample_dataset(dataset_id: str):
 @app.post("/api/v1/audit/gemini-summary")
 async def gemini_audit_summary(request: dict):
     """Generate AI-powered audit summary using Gemini"""
-    if not gemini_model:
-        raise HTTPException(status_code=503, detail="Gemini API key not configured")
-
     try:
-        session_id = request.get("session_id")
         sensitive_col = request.get("sensitive_col")
         target_col = request.get("target_col")
         results = request.get("results", {})
@@ -870,10 +892,10 @@ Guidelines:
 6. Keep the response under 250 words
 """
 
-        response = gemini_model.generate_content(prompt)
-        summary = response.text.strip()
-
+        summary = await call_gemini(prompt)
         return {"summary": summary}
+    except HTTPException:
+        raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Gemini summary failed: {str(e)}")
 

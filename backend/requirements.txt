@@ -7,4 +7,4 @@ openpyxl==3.1.2
 scikit-learn
 python-dotenv==1.0.0
 pydantic
-google-generativeai
+httpx
